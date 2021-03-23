@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BioC2021</title>
+    <link>/</link>
+    <description>Recent content on BioC2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Oct 2020 18:52:14 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Fri, 16 Oct 2020 18:52:14 -0400</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>test test</description>
+    </item>
+    
+    <item>
+      <title>Code of conduct</title>
+      <link>/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code/</guid>
+      <description>This code of conduct is developed for the virtual Bioc2021 conference.
+Social media policy Images and content from talks, workshops, and posters may be shared publicly through social media unless the presenter asks for it not to be. To avoid confusion, presentations not to be shared should be labeled &amp;ldquo;Do Not Share&amp;rdquo; on each slide, as should be posters.
+The Bioconductor conference aims to provide a supportive, collegial, and harassment-free environment Bioconductor is dedicated to providing a supportive, collegial, and harassment-free conference experience for everyone, regardless of:</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>We are here to help you Members of organizing committees Bold highlights leaders of the committees</description>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>/organizers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/organizers/</guid>
+      <description>To be updated</description>
+    </item>
+    
+    <item>
+      <title>Past Conferences</title>
+      <link>/conferences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/conferences/</guid>
+      <description> EuroBioC 2020 BioC Asia 2020 Bioconductor 2020 Bioconductor 2019 Bioconductor 2018 Bioconductor 2017 Bioconductor 2016 Bioconductor 2015 Bioconductor 2014 Bioconductor 2013 Bioconductor 2012 Bioconductor 2011 Bioconductor 2010 Bioconductor 2009 Bioconductor 2008 Bioconductor 2007 Bioconductor 2006 Bioconductor 2005  </description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/</guid>
+      <description>Agenda All time is US Eastern Time. All sessions include Q&amp;amp;A time.
+   Time  Track  Name     Monday, 7/27/2020         8:00 AM   Community   Open breakfast meeting    </description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/</guid>
+      <description>Sponsor Opportunities  Interested in sponsoring this conference? Please contact Martin.Morgan@RoswellPark.org
+ Your sponsorship will help increase diversity and representation at Bioconductor 2020 by:
+ Funding travel scholarships for students and postdoctoral fellows. Providing caregiver awards to assist in childcare or eldercare costs (new in 2020). Offering student diversity scholarships to increase participation of underrepresented minorities (new in 2020). Keeping registration costs affordable for academic participants.  Three levels of sponsorship are available.</description>
+    </item>
+    
+  </channel>
+</rss>
