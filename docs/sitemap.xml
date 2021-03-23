@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://biopackathon.github.io/</loc>
     <lastmod>2020-10-16T18:52:14-04:00</lastmod>
   </url><url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>https://biopackathon.github.io/posts/my-first-post/</loc>
     <lastmod>2020-10-16T18:52:14-04:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://biopackathon.github.io/posts/</loc>
     <lastmod>2020-10-16T18:52:14-04:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://biopackathon.github.io/categories/</loc>
   </url><url>
-    <loc>/code/</loc>
+    <loc>https://biopackathon.github.io/code/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://biopackathon.github.io/contact/</loc>
   </url><url>
-    <loc>/organizers/</loc>
+    <loc>https://biopackathon.github.io/organizers/</loc>
   </url><url>
-    <loc>/conferences/</loc>
+    <loc>https://biopackathon.github.io/conferences/</loc>
   </url><url>
-    <loc>/schedule/</loc>
+    <loc>https://biopackathon.github.io/schedule/</loc>
   </url><url>
-    <loc>/sponsors/</loc>
+    <loc>https://biopackathon.github.io/sponsors/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://biopackathon.github.io/tags/</loc>
   </url>
 </urlset>
