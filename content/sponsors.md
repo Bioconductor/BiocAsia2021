@@ -6,9 +6,9 @@ description = "Sponsors"
 ## Sponsor Opportunities
 
 > Interested in sponsoring this conference? <br> 
-Please contact <Martin.Morgan@RoswellPark.org>
+Please contact <koki.tsuyuzaki@riken.jp>
 
-**Your sponsorship will help increase diversity and representation at Bioconductor 2020** by:
+**Your sponsorship will help increase diversity and representation at Bioconductor 2021** by:
 
 - Funding travel scholarships for students and postdoctoral fellows.
 - Providing caregiver awards to assist in childcare or eldercare costs (new in 2020).
