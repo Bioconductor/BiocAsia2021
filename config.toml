@@ -1,5 +1,5 @@
-baseurl = "/"
-title = "BioC2021"
+baseurl = "https://biopackathon.github.io/"
+title = "BioC Asia 2021"
 theme = "hugo-universal-theme"
 # themesDir = "../.."
 publishDir = "docs"
