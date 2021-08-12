@@ -3,12 +3,12 @@ title = "Code of conduct"
 description = "Code of conduct"
 +++
 
-This code of conduct is developed for the virtual Bioc2021 conference.
+This code of conduct is developed for the virtual Bioc Asia 2021 conference. For more details, see the [Bioconductor Code of Conduct](https://www.bioconductor.org/about/code-of-conduct/)
 <!-- The original Code of Conduct is copy-pasted and quoted below -->
 
 ## Social media policy
 
-Images and content from talks, workshops, and posters may be shared publicly through social media _unless_ the presenter asks for it not to be. To avoid confusion, presentations not to be shared should be labeled "Do Not Share" on each slide, as should be posters.
+Images and content from talks, workshops, and posters may be shared publicly through social media (Twitter, etc.). Videos will be released on the [Youtube Bioconductor channel](https://www.youtube.com/user/bioconductor). Please, inform the organizing committee as soon as possible if you don't wish your presentation material to be shared. <!--To avoid confusion, presentations not to be shared should be labeled "Do Not Share" on each slide, as should be posters.-->
 
 ## The _Bioconductor_ conference aims to provide a supportive, collegial, and harassment-free environment
 
@@ -69,7 +69,7 @@ We can't follow up an anonymous report with you directly, but we will fully inve
 
 #### Personal Report
 
-You can make a personal report with any of the conference anti-harassment committee: Aedin Culhane, Levi Waldron, and Laurent Gatto.
+You can make a personal report with any of the conference anti-harassment committee: Kozo Nishida.
 
 When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. Once safe, we'll ask you to tell us about what happened. This can be upsetting, but we'll handle it as respectfully as possible, and you can bring someone to support you. You won't be asked to confront anyone, and we won't tell anyone who you are. 
 
@@ -79,12 +79,11 @@ Our team will be happy to help you contact hotel/venue security, local law enfor
 
 * Email: [code-of-conduct@bioconductor.org](mailto:workshop@bioconductor.org?subject=BioC2019%20code-of-conduct)
 * Anonymous Code of Conduct violation reports: [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint)
-* Law enforcement emergency number: 911
 
 ### Code of Conduct Committee
 
 |       |   |     |   |      |
 |-------|---|-----|---|------|
-| ![](../img/organizers/Aedin.jpg) | &nbsp; | ![](../img/organizers/LeviWaldron.jpg) | &nbsp; | ![](../img/organizers/Laurent.jpg) |
-| [Aedin Culhane](mailto:aedin@jimmy.harvard.edu?subject=BioC2019%20code-of-conduct) | &nbsp;  | [Levi Waldron](mailto:lwaldron.research@gmail.com?subject=BioC2019%20Code-of-conduct) | &nbsp; | [Laurent Gatto](mailto:laurent.gatto@uclouvain.be?subject=BioC2019%20Code-of-conduct) |
+| ![](../img/organizers/kozo.png) |
+| [Kozo Nishida](mailto:kozo.nishida@.gmail.com?subject=BioCAsia2021%20code-of-conduct) |
 
