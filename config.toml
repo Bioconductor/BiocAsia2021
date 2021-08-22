@@ -198,7 +198,7 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Sponsors"
+    title = "Our Supporters"
     subtitle = ""
 
 [params.recent_posts]
