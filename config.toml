@@ -26,28 +26,40 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
+    identifier = "registration"
+    name = "Registration"
+    url  = "/registration/"
+    weight = 2
+
+[[menu.main]]
+    identifier="submissions"
+    name = "Submissions"
+    url  = "/submissions/"
+    weight = 3
+
+[[menu.main]]
     identifier="schedule"
     name = "Schedule"
     url  = "/schedule/"
-    weight = 2
+    weight = 4
 
 [[menu.main]]
     identifier = "organizers"
     name = "Organizers"
     url  = "/organizers/"
-    weight = 3
+    weight = 5
 
 [[menu.main]]
     identifier = "code"
     name = "Code of conduct"
     url  = "/code/"
-    weight = 4
+    weight = 6
 
 [[menu.main]]
     identifier = "conferences"
     name = "Past conferences"
     url  = "/conferences/"
-    weight = 5
+    weight = 7
 
 # [[menu.main]]
 #     identifier = "contact"
