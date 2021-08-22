@@ -3,13 +3,10 @@ title = "Schedule"
 description = "Schedule"
 +++
 
-# Agenda
+# Schedule
 
-All time is Japan Standard Time. All sessions include Q&A time.
+The assignment of speakers to each frame is currently being prepared.
 
-| Time                   |               | Track      |               | Name                     |
-|:----------------------:|---------------|------------|---------------|--------------------------|
-| **Monday, 11/01/2021**  | &nbsp; &nbsp; |            | &nbsp; &nbsp; |                          |
-| 8:00 AM                | &nbsp; &nbsp; | Community  | &nbsp; &nbsp; | Open breakfast meeting   |
+Click or change the place name in the left of "Powered by team up" (in the lower-right corner) to set your time zone.
 
-
+{{< iframe >}}
