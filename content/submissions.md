@@ -3,9 +3,9 @@ title = "Submissions"
 description = "Submissions"
 +++
 
-<!-- ## Submission is open
+## Submission is open
 
-[Access the BioC2021 Conference submission portal at https://openreview.net/group?id=bioconductor.org/BioC/2021/Conference](https://openreview.net/group?id=bioconductor.org/BioC/2021/Conference) -->
+[Access the BioC Asia 2021 Conference submission GitHub issue form](https://github.com/Bioconductor/BiocAsia2021/issues/new/choose)
 
 ## Important dates
 
