@@ -3,8 +3,10 @@ title = "Schedule"
 description = "Schedule"
 +++
 
-# Agenda
+# Schedule
 
-Change the time zone in the teamup calendar ('hamburger button' in the upper-right corner). Add this calendar to your calendar using "Preferences/iCalendar Feeds". 
+The assignment of speakers to each frame is currently being prepared.
+
+Click or change the place name in the left of "Powered by team up" (in the lower-right corner) to set your time zone.
 
 {{< iframe >}}
