@@ -5,11 +5,6 @@ description = "Schedule"
 
 # Agenda
 
-All time is Japan Standard Time. All sessions include Q&A time.
+Change the time zone in the teamup calendar ('hamburger button' in the upper-right corner). Add this calendar to your calendar using "Preferences/iCalendar Feeds". 
 
-| Time                   |               | Track      |               | Name                     |
-|:----------------------:|---------------|------------|---------------|--------------------------|
-| **Monday, 11/01/2021**  | &nbsp; &nbsp; |            | &nbsp; &nbsp; |                          |
-| 8:00 AM                | &nbsp; &nbsp; | Community  | &nbsp; &nbsp; | Open breakfast meeting   |
-
-
+{{< iframe >}}
