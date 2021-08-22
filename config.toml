@@ -49,11 +49,11 @@ paginate = 10
     url  = "/conferences/"
     weight = 5
 
-[[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url  = "/contact/"
-    weight = 6
+# [[menu.main]]
+#     identifier = "contact"
+#     name = "Contact"
+#     url  = "/contact/"
+#     weight = 6
 
 # Top bar social links menu
 
@@ -75,11 +75,11 @@ paginate = 10
     url = "https://twitter.com/Bioconductor"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
-[[menu.topbar]]
-    weight = 4
-    name = "Email"
-    url = "mailto:workshop@bioconductor.org"
-    pre = "<i class='fas fa-2x fa-envelope'></i>"
+# [[menu.topbar]]
+#     weight = 4
+#     name = "Email"
+#     url = "mailto:kozo.nishida@gmail.com"
+#     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [[menu.topbar]]
     weight = 5
@@ -198,7 +198,7 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Sponsors"
+    title = "Our Supporters"
     subtitle = ""
 
 [params.recent_posts]
