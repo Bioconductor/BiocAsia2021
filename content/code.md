@@ -18,9 +18,9 @@ conference experience for everyone, regardless of:
 physical appearance, body size, race, age, or religion. 
 * intellectual position: approaches to data analysis, software preferences, coding style, scientific perspective, etc.
 
-The Virtual Event Code of Conduct applies to Bioc2021 virtual events and communications, including but not limited to the virtual platform, talks, workshops, poster sessions, social activities, slack, online and social media communications. We do not tolerate harassment, intimidation, or bullying of conference participants. Sexual language and imagery are not appropriate in presentations, communications, in online venues, including chats. 
+The Virtual Event Code of Conduct applies to BiocAsia2021 virtual events and communications, including but not limited to the virtual platform, talks, workshops, poster sessions, social activities, slack, online and social media communications. We do not tolerate harassment, intimidation, or bullying of conference participants. Sexual language and imagery are not appropriate in presentations, communications, in online venues, including chats. 
 
-Conference participants violating these rules may be sanctioned or expelled from the conference with no refund, 
+Conference participants violating these rules may be sanctioned or expelled from the conference, 
 at the discretion of the conference organizers. Our anti-harassment policy can be found at [https://bioc2020.bioconductor.org/code_of_conduct](https://bioc2020.bioconductor.org/code_of_conduct)
 
 ## Examples of unacceptable harassment, intimidation, and bullying behavior
@@ -47,7 +47,7 @@ discussion
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, event organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the conference with no refund. 
+If a participant engages in harassing behavior, event organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the conference. 
 
 Event organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. 
 
@@ -73,8 +73,6 @@ You can make a personal report with any of the conference anti-harassment commit
 
 When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. Once safe, we'll ask you to tell us about what happened. This can be upsetting, but we'll handle it as respectfully as possible, and you can bring someone to support you. You won't be asked to confront anyone, and we won't tell anyone who you are. 
 
-Our team will be happy to help you contact hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance. 
-
 ### Code of Conduct violation reports 
 
 * Email: [code-of-conduct@bioconductor.org](mailto:workshop@bioconductor.org?subject=BioC2019%20code-of-conduct)
@@ -86,4 +84,3 @@ Our team will be happy to help you contact hotel/venue security, local law enfor
 |-------|---|-----|---|------|
 | ![](../img/organizers/kozo.png) |
 | [Kozo Nishida](mailto:kozo.nishida@.gmail.com?subject=BioCAsia2021%20code-of-conduct) |
-
