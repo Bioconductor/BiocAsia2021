@@ -8,7 +8,7 @@ description = "Registration"
 is now open!
 -->
 
-Registration link 
+[Registration link](https://www.eventbrite.com.au/e/bioc-asia-2021-tickets-163817050207)
 
 ## Fees
 
