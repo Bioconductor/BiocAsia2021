@@ -1,4 +1,4 @@
-text: "Dr. Koki Tsuyuzaki is a post-doc researcher at RIKEN BDR BiT and a researcher at JST PRESTO. He is one of the active Bioconductor committers and has developed hundreds of R/Bioconductor packages including metaSeq, AHMeSHDbs, MeSHDbi, AHLRBaseDbs, LRBaseDbi, AHPubMedDbs, scTensor, and scTGIF. He will present his recent development of some R packages for tensor decomposition to handle large-scale and complex tensor data structures."
-name: "Invited talk, Koki Tsuyuzaki: \"Guidelines to handle large-scale and complex tensor data in R\""
-position: "RIKEN Center for Biosystems Dynamics Research, Japan"
-avatar: "img/speakers/KokiTsuyuzaki.jpg"
+text: "Belinda Phipson is a senior researcher at Peter MacCallum Cancer Centre. She and Jovana Maksimovic have long maintained missMethyl, a Bioconductor package for analyzing Illumina HumanMethylation BeadChip data. They also contribute to Bioconductor not only with missMethyl but also with workflow packages that use it https://doi.org/doi:10.18129/B9.bioc.methylationArrayAnalysis . Recently, they published a paper on benchmarking about methylation array analysis using missMethyl https://doi.org/10.1186/s13059-021-02388-x ."
+name: "Invited talk (day1), Belinda Phipson: \"Gene set enrichment analysis for genome-wide DNA methylation data\""
+position: "Peter MacCallum Cancer Centre, Australia"
+avatar: "img/speakers/BelindaPhipson.jpg"

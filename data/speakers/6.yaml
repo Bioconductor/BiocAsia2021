@@ -1,4 +1,4 @@
-text: "Erqiang Hu is a PhD Student at the Department of Bioinformatics, Southern Medical University. He and Tianzhi Wu recently published a cluster Profiler 4.0 paper from the Innovation journal. https://doi.org/10.1016/j.xinn.2021.100141"
-name: "Invited talk, Erqiang Fu: \"clusterProfiler 4.0 and the new features\""
-position: "Southern Medical University, China"
-avatar: "img/speakers/ErqiangHu.jpg"
+text: "Stefano Mangiola is a postdoctoral fellow at Walter and Eliza Hall Institute of Medical Research. He and Dr Maria Doyle have developed a suite of software that integrates the tidyverse framework and transomics analysis, and publishes them as a bioconductor package. He has also developed an interface for Seurat with tidyverse, which is published in https://doi.org/10.1093/bioinformatics/btab404 ."
+name: "Invited talk (day1), Stefano Mangiola: \"Interfacing Seurat with the R tidy universe\""
+position: "Walter and Eliza Hall Institute of Medical Research, Australia"
+avatar: "img/speakers/StefanoMangiola.png"
