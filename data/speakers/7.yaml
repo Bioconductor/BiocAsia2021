@@ -1,4 +1,4 @@
 text: "Stefano Mangiola is a postdoctoral fellow at Walter and Eliza Hall Institute of Medical Research. He and Dr Maria Doyle have developed a suite of software that integrates the tidyverse framework and transomics analysis, and publishes them as a bioconductor package. He has also developed an interface for Seurat with tidyverse, which is published in https://doi.org/10.1093/bioinformatics/btab404 ."
-name: "Invited talk, Stefano Mangiola: \"Interfacing Seurat with the R tidy universe\""
+name: "Invited talk (day1), Stefano Mangiola: \"Interfacing Seurat with the R tidy universe\""
 position: "Walter and Eliza Hall Institute of Medical Research, Australia"
 avatar: "img/speakers/StefanoMangiola.png"
