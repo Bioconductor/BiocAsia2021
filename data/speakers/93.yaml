@@ -1,4 +1,4 @@
-text: ""
-name: "Invited speaker"
-position: ""
-avatar: "img/speakers/avatar.png"
+text: "Yunshun Chen is a senior postdoctoral researcher at Walter and Eliza Hall Institute of Medical Research. He is one of the authors and the main maintainer of the edgeR package - the arguably world’s most popular R package specifically designed for Next Generation Sequencing (NGS) data."
+name: "Invited talk, Yunshun Chen: \"edgeR: differential analysis of sequence read count data\""
+position: "Walter and Eliza Hall Institute of Medical Research, Australia"
+avatar: "img/speakers/Andy.png"
