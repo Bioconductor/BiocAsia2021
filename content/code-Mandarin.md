@@ -1,79 +1,74 @@
 +++
-title = "Code of conduct (Mandarin)"
+title = "行为准则"
 description = "Code of conduct (Mandarin)"
 +++
 
-This code of conduct is developed for the virtual Bioc Asia 2021 conference. For more details, see the [Bioconductor Code of Conduct](https://www.bioconductor.org/about/code-of-conduct/)
+该行为准则为Bioc Asia 2021虚拟会议而制定。 欲知更多详情，请参阅 [Bioconductor行为准则](https://www.bioconductor.org/about/code-of-conduct/) 。
 <!-- The original Code of Conduct is copy-pasted and quoted below -->
 
-## Social media policy
+## 社交媒体政策
 
-Images and content from talks, workshops, and posters may be shared publicly through social media (Twitter, etc.). Videos will be released on the [Youtube Bioconductor channel](https://www.youtube.com/user/bioconductor). Please, inform the organizing committee as soon as possible if you don't wish your presentation material to be shared. <!--To avoid confusion, presentations not to be shared should be labeled "Do Not Share" on each slide, as should be posters.-->
+演讲、研讨会和海报中的图像和内容可以通过社交媒体（如Twitter等）共享。 视频将会在 [Youtube Bioconductor 频道](https://www.youtube.com/user/bioconductor)上发布。如果您不希望您的演讲材料被共享，请尽快告知组委会。 <!--为避免歧义，不应被共享的演讲需在每一页幻灯片上标注“请勿共享”，对于海报同理。-->
 
-## The _Bioconductor_ conference aims to provide a supportive, collegial, and harassment-free environment
+## _Bioconductor_ 会议致力于提供支持、融洽且无骚扰的环境
 
-_Bioconductor_ is dedicated to providing a supportive, collegial, and harassment-free 
-conference experience for everyone, regardless of:
-* gender, gender identity and expression, sexual orientation, disability, 
-physical appearance, body size, race, age, or religion. 
-* intellectual position: approaches to data analysis, software preferences, coding style, scientific perspective, etc.
+_Bioconductor_ 会议致力于为每个人提供支持、融洽且无骚扰的环境， 无论：
+* 性别、性别认同和表达、性取向、残疾、外貌、体型、种族、年龄、宗教信仰等。
+* 知识立场：数据分析方式、软件偏好、代码风格、科学观点等。
 
-The Virtual Event Code of Conduct applies to BiocAsia2021 virtual events and communications, including but not limited to the virtual platform, talks, workshops, poster sessions, social activities, slack, online and social media communications. We do not tolerate harassment, intimidation, or bullying of conference participants. Sexual language and imagery are not appropriate in presentations, communications, in online venues, including chats. 
+此虚拟活动行为准则适用于BiocAsia2021虚拟活动和交流，包括但不限于虚拟平台、演讲、研讨会、海报会议、社交活动、slack、线上及社交媒体交流。我们不能容忍对参会者的骚扰、恐吓或欺凌。色情文字和图像不宜出现于演讲、交流与在线场所，包括聊天。
 
-Conference participants violating these rules may be sanctioned or expelled from the conference, 
-at the discretion of the conference organizers. Our anti-harassment policy can be found at [https://bioc2020.bioconductor.org/code_of_conduct](https://bioc2020.bioconductor.org/code_of_conduct)
+违反这些规则的参会者可能会由会议组织者酌情处罚或开除出会。我们的反骚扰政策详见 [https://bioc2020.bioconductor.org/code_of_conduct](https://bioc2020.bioconductor.org/code_of_conduct) 。
 
-## Examples of unacceptable harassment, intimidation, and bullying behavior
+## 不可接受的骚扰、恐吓和欺凌行为的示例
 
-Harassment includes, but is not limited to:
+骚扰包括但不限于：
 
-* Making comments in chats, to an audience or personally, that belittle or demean another person
-* Sharing sexual images online
-* Harassing photography or recording
-* Sustained disruption of talks or other events
-* Unwelcome sexual attention
-* Advocating for, or encouraging, any of the above behavior 
+* 在聊天中向公众或个人发表贬低或侮辱他人的评论
+* 在线分享色情图片
+* 骚扰摄影或录音
+* 持续扰乱讨论或其他活动
+* 不受欢迎的性关注
+* 提倡或鼓励上述任何行为 
 
-Intimidation and bullying include, but are not limited to:
+恐吓和欺凌包括但不限于:
 
-* Aggressive or browbeating behavior directed at someone during a public presentation
-* Mocking or insulting another person's intellect, work, perspective, or question/comment
-* Making reference to someone's gender, gender identity and expression, sexual orientation, disability, 
-physical appearance, body size, race, age, religion, or other personal attributes in the context of a scientific 
-discussion
-* Deliberately making someone feel unwelcome
+* 在公开演讲中针对某人的攻击性或威胁行为
+* 嘲笑或侮辱他人的智力、工作、观点或问题/评论
+* 在科学讨论中提及某人的性别、性别认同和表达、性取向、残疾、外貌、体型、种族、年龄、宗教信仰或其他个人属性
+* 故意排挤某人
 
-### Enforcement
+### 执行
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+与会者当被要求停止骚扰行为时应立即遵守。
 
-If a participant engages in harassing behavior, event organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the conference. 
+如果与会者有骚扰行为，活动组织者保留采取任何行动以确保为所有与会者提供友好环境的权利。这包括警告违规者或将其开除出会。
 
-Event organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. 
+活动组织者可能会采取行动纠正任何旨在扰乱活动或使环境对任何与会者不利，或在相关方面具有明显影响的行为。
 
-We expect participants to follow these rules at all event venues and event-related online activities.
+我们希望与会者在所有会场和与活动相关的在线活动中都能遵守这些规则。
 
-### Reporting
+### 报告
 
-If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. 
-Harassment and other code of conduct violations reduce the value of our event for everyone. 
-We want you to be happy at our event. People like you make our event a better place. 
+如果有人让您或其他任何人感到不安全或不受欢迎，请尽快报告。
+骚扰和其他违反行为准则的行为会降低此活动对每个人的价值。
+我们希望您愉悦地参与我们的活动。正是像您这样的人，让我们的活动变得更美好。
 
-You can make a report either personally or anonymously. 
+您可以选择个人或匿名举报。
 
-#### Anonymous or Non-anonymous Report
+#### 匿名或非匿名举报
 
-You can make an anonymous or non-anonymous report here: [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint). It is a free-form text box that will be forwarded to conference organizers.
+您可以通过此链接进行匿名或非匿名举报： [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint) 。这是一个自由格式的文本框，会被转发给行为准则委员会。
 
-We can't follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence. 
+我们无法直接向您跟进匿名举报，但我们会对其进行全面调查并采取一切必要措施防止其再次发生。
 
-#### Personal Report
+#### 个人举报
 
-You can make a personal report with any of the conference anti-harassment committee: Kozo Nishida.
+您可以直接向任意一位会议反骚扰委员会成员进行个人举报：Kozo Nishida。
 
-When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. Once safe, we'll ask you to tell us about what happened. This can be upsetting, but we'll handle it as respectfully as possible, and you can bring someone to support you. You won't be asked to confront anyone, and we won't tell anyone who you are. 
+在进行个人举报时，我们将确保您是安全的且不会被偷听。其他活动工作人员可能会参与其中以确保妥善管理您的报告。在安全的情况下，我们将请您告诉我们发生了什么。这可能会让您感到不安，但我们会尽可能以尊重的方式处理，您也可以找人陪同并支持您。您不会被要求与任何人对质，我们也不会告诉任何人您是谁。
 
-### Code of Conduct violation reports 
+### 行为准则违规举报
 
-* Email: [code-of-conduct@bioconductor.org](mailto:workshop@bioconductor.org?subject=BioC2019%20code-of-conduct)
-* Anonymous Code of Conduct violation reports: [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint)
+* 电子邮件： [code-of-conduct@bioconductor.org](mailto:workshop@bioconductor.org?subject=BioC2019%20code-of-conduct)
+* 匿名行为准则违规举报： [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint)
