@@ -65,7 +65,7 @@ paginate = 10
 #     identifier = "contact"
 #     name = "Contact"
 #     url  = "/contact/"
-#     weight = 6
+#     weight = 8
 
 # Top bar social links menu
 
@@ -134,7 +134,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "knishida@riken.jp"
     contact_form_ajax = false
 
     about_us = "<p>Bioconductor conference highlights current developments within and beyond the Bioconductor project.</p>"
@@ -206,7 +206,7 @@ paginate = 10
     link_text = "Check other homepages"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
