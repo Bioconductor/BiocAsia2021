@@ -1,4 +1,4 @@
-text: "Janani Ravi is associate professor at the Dept. of Pathobiology and Diagnostic Investigation, Michigan State University and founder R-Ladies East Lansing Women+ Data Science. She work on protein sequence-structure-function relationships, comparative genomics, and drug repurposing as they relate to infectious diseases. She also teaches data analysis and visualization and R/Python programming to diverse groups in non-traditional settings. As part of the effort, she founded R-Ladies East Lansing and Women+ Data Science."
-name: "Invited talk, Janani Ravi: \"AsiaR community and R-Ladies in Asia\""
-position: "Michigan State University, USA"
-avatar: "img/speakers/JananiRavi.jpeg"
+text: "Dr. Koki Tsuyuzaki is a post-doc researcher at RIKEN BDR BiT and a researcher at JST PRESTO. He is one of the active Bioconductor committers and has developed hundreds of R/Bioconductor packages including metaSeq, AHMeSHDbs, MeSHDbi, AHLRBaseDbs, LRBaseDbi, AHPubMedDbs, scTensor, and scTGIF. He will present his recent development of some R packages for tensor decomposition to handle large-scale and complex tensor data structures."
+name: "Invited talk, Koki Tsuyuzaki: \"Guidelines to handle large-scale and complex tensor data in R\""
+position: "RIKEN Center for Biosystems Dynamics Research, Japan"
+avatar: "img/speakers/KokiTsuyuzaki.jpg"

@@ -1,4 +1,4 @@
-text: "Yunshun Chen is a senior postdoctoral researcher at Walter and Eliza Hall Institute of Medical Research. He is one of the authors and the main maintainer of the edgeR package - the arguably world’s most popular R package specifically designed for Next Generation Sequencing (NGS) data. His research focuses on differential expression analysis of the NGS data, as well as single-cell RNA-seq analysis."
-name: "Invited talk, Yunshun Chen: \"edgeR: differential analysis of sequence read count data\""
-position: "Walter and Eliza Hall Institute of Medical Research, Australia"
-avatar: "img/speakers/Andy.png"
+text: "Janani Ravi is associate professor at the Dept. of Pathobiology and Diagnostic Investigation, Michigan State University and founder R-Ladies East Lansing Women+ Data Science. She work on protein sequence-structure-function relationships, comparative genomics, and drug repurposing as they relate to infectious diseases. She also teaches data analysis and visualization and R/Python programming to diverse groups in non-traditional settings. As part of the effort, she founded R-Ladies East Lansing and Women+ Data Science."
+name: "Invited talk, Janani Ravi: \"AsiaR community and R-Ladies in Asia\""
+position: "Michigan State University, USA"
+avatar: "img/speakers/JananiRavi.jpeg"

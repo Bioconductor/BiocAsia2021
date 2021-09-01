@@ -1,4 +1,4 @@
-text: "Dr. Koki Tsuyuzaki is a post-doc researcher at RIKEN BDR BiT and a researcher at JST PRESTO. He is one of the active Bioconductor committers and has developed hundreds of R/Bioconductor packages including metaSeq, AHMeSHDbs, MeSHDbi, AHLRBaseDbs, LRBaseDbi, AHPubMedDbs, scTensor, and scTGIF. He will present his recent development of some R packages for tensor decomposition to handle large-scale and complex tensor data structures."
-name: "Invited talk, Koki Tsuyuzaki: \"Guidelines to handle large-scale and complex tensor data in R\""
-position: "RIKEN Center for Biosystems Dynamics Research, Japan"
-avatar: "img/speakers/KokiTsuyuzaki.jpg"
+text: "Soroor Hediyeh-zadeh is a graduate research student in the department of medical biology (Walter and Eliza Hall Institute) at The University of Melbourne. Previously, She was a Research Assistant (RA) in A/Prof. Melissa Davis's Lab at the Bioinformatics Division in WEHI, and a Masters student at The University of Melbourne in the School of Mathematics and Statistics. She is broadly interested in developing and studying machine learning and statistical models for the analysis of transcriptomics and proteomics data."
+name: "Invited talk (day2), Soroor Hediyeh-zadeh: \"MsImpute: Estimation of missing peptide intensity values in label-free mass spectrometry\""
+position: "Walter and Eliza Hall Institute of Medical Research, Australia"
+avatar: "img/speakers/Soroorh.png"
