@@ -61,11 +61,11 @@ paginate = 10
     url  = "/conferences/"
     weight = 7
 
-[[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url  = "/contact/"
-    weight = 8
+# [[menu.main]]
+#     identifier = "contact"
+#     name = "Contact"
+#     url  = "/contact/"
+#     weight = 8
 
 # Top bar social links menu
 
