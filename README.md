@@ -21,7 +21,7 @@ cd BiocAsia2021/
 rm -rf public; hugo --verbose; hugo server --disableFastRender --verbose
 ```
 
-and view the results at http://localhost:1313/BiocAsia2021/
+and view the results at http://localhost:1313/ .
 
 4. Host your site on [Netlify](https://www.netlify.com/), as described [here](https://bookdown.org/yihui/blogdown/netlify.html). Use build command `hugo`, publish directory `public`, and set advanced variable `HUGO_VERSION` to your `hugo version` number, e.g., 0.76.5
 
