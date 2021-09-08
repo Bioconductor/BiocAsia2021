@@ -77,10 +77,3 @@ When taking a personal report, our staff will ensure you are safe and cannot be 
 
 * Email: [code-of-conduct@bioconductor.org](mailto:workshop@bioconductor.org?subject=BioC2019%20code-of-conduct)
 * Anonymous Code of Conduct violation reports: [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint)
-
-### Code of Conduct Committee
-
-|       |   |     |   |      |
-|-------|---|-----|---|------|
-| ![](../img/organizers/kozo.png) |
-| [Kozo Nishida](mailto:kozo.nishida@.gmail.com?subject=BioCAsia2021%20code-of-conduct) |
