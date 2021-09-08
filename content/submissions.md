@@ -8,6 +8,9 @@ description = "Submissions"
 <!--A few days later you will find a link to the submission form here.-->
 [Access the BioC Asia 2021 abstract submission GitHub issue form](https://github.com/Bioconductor/BiocAsia2021/issues/new/choose)
 
+You must be logged in to [GitHub](https://github.com/) to see the abstract submission GitHub issue form.  
+Please click the form link while logged in to GitHub.
+
 ## Important dates
 
 <!--* January 22, 2021: Call for abstracts opens
