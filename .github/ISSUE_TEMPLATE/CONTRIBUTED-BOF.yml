@@ -24,13 +24,13 @@ body:
       label: Abstract
       description: Write an abstract of your BOF.
       placeholder: Tell us your talk abstract!
-      value: "It is about Bioconductor related R package or community. It is ..."
+      value: "REPLACE ME WITH YOUR BOF ABSTRACT"
     validations:
       required: true
   - type: textarea
     id: date-preference
     attributes:
-      label: A convenient da for your BOF.
+      label: Convenient day for your BOF.
       description: However, the request is not always reflected.
   - type: textarea
     id: comment
