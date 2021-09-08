@@ -33,3 +33,8 @@ Please click the form link while logged in to GitHub.
 
 ### Long workshop
 1 hour interactive workshop, where participants will be expected to have the time and opportunity to follow along and perform analysis themselves.
+
+Only for the Workshop, you can choose from three languages, Japanese, Mandarin, and English, and use the language in the workshop.
+
+However, please note that 1 invited workshop in Japanese and 2 invited workshops in Mandarin have already been decided.  
+(In other words, there are 3 open slots in Japanese, 2 in Mandarin, and 4 in English.)
