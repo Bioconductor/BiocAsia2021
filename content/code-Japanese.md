@@ -8,7 +8,10 @@ description = "行動規範"
 
 ## ソーシャルメディアポリシー
 
-Images and content from talks, workshops, and posters may be shared publicly through social media (Twitter, etc.). Videos will be released on the [Youtube Bioconductor channel](https://www.youtube.com/user/bioconductor). Please, inform the organizing committee as soon as possible if you don't wish your presentation material to be shared. <!--To avoid confusion, presentations not to be shared should be labeled "Do Not Share" on each slide, as should be posters.-->
+トーク、ワークショップ、ポスターの画像やコンテンツは、ソーシャルメディア (Twitterなど) を通じて公開される可能性があります。
+ビデオは [Youtube の Bioconductor チャンネル](https://www.youtube.com/user/bioconductor)で公開される予定です。
+発表資料の共有を希望されない場合は、できる限り早く組織委員会(organizing committee)にご連絡ください。
+<!--To avoid confusion, presentations not to be shared should be labeled "Do Not Share" on each slide, as should be posters.-->
 
 ## The _Bioconductor_ conference aims to provide a supportive, collegial, and harassment-free environment
 
