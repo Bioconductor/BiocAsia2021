@@ -57,10 +57,16 @@ paginate = 10
     weight = 6
 
 [[menu.main]]
+    identifier = "code-Mandarin"
+    name = "行为准则"
+    url  = "/code-Mandarin/"
+    weight = 7
+
+[[menu.main]]
     identifier = "conferences"
     name = "Past conferences"
     url  = "/conferences/"
-    weight = 7
+    weight = 8
 
 # [[menu.main]]
 #     identifier = "contact"
