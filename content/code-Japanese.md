@@ -20,7 +20,10 @@ _Bioconductor_ は、以下にかかわらず、すべての人に協力的で�
 * 性別、性同一性や表現、性的指向、障害、容貌、体の大きさ、人種、年齢、または宗教。
 * 学問的立場: データ分析へのアプローチ、ソフトウェアの好み、コーディングスタイル、科学的視点、など。
 
-The Virtual Event Code of Conduct applies to BiocAsia2021 virtual events and communications, including but not limited to the virtual platform, talks, workshops, poster sessions, social activities, slack, online and social media communications. We do not tolerate harassment, intimidation, or bullying of conference participants. Sexual language and imagery are not appropriate in presentations, communications, in online venues, including chats. 
+バーチャルイベントの行動規範は、BiocAsia2021 のバーチャルイベントおよびコミュニケーションに適用されます。
+これには、バーチャルのプラットフォーム、トーク、ワークショップ、ポスターセッション、ソーシャルアクティビティ、slack、オンラインおよびソーシャルメディアコミュニケーションが含まれますが、これらに限定されません。
+カンファレンス参加者への嫌がらせ、脅迫、いじめは容認しません。
+性的な言葉や画像は、プレゼンテーション、コミュニケーション、オンライン会場(チャットを含む)でふさわしくありません。
 
 Conference participants violating these rules may be sanctioned or expelled from the conference, 
 at the discretion of the conference organizers. Our anti-harassment policy can be found at [https://bioc2020.bioconductor.org/code_of_conduct](https://bioc2020.bioconductor.org/code_of_conduct)
