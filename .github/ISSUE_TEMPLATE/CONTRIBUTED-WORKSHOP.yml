@@ -59,7 +59,7 @@ body:
       label: Checklist
       description: Please check the following before submitting.
       options:
-        - label: This event has a Bioconductor focus or interest to Bioconductor users/developers.
+        - label: This workshop has a Bioconductor focus or interest to Bioconductor users/developers.
           required: true
         - label: I checked and confirmed the [BioC Asia 2021 Code of Conduct](https://biocasia2021.bioconductor.org/code/).
           required: true
