@@ -1,14 +1,14 @@
-name: Submission of abstract for contribution talk
+name: Submission of abstract for Birds-of-a-feather session
 description: File a abstract submission
-title: "[talk]: REPLACE ME WITH YOUR TALK ABSTRACT TITLE"
-labels: [talk, abstract]
+title: "[bof]: REPLACE ME WITH YOUR BOF ABSTRACT TITLE"
+labels: [bof, abstract]
 assignees:
   - kozo2
 body:
   - type: markdown
     attributes:
       value: |
-        Please submit this form and let us know your talk abstract. Reviews will be done openly on the issue created by the submission.
+        Please submit this form and let us know your BOF abstract. Reviews will be done openly on the issue created by the submission.
         Please review the BioC Asia 2021 Code of Conduct before submitting this form. Thanks for taking the time to fill out this form!
   - type: input
     id: contact
@@ -19,18 +19,18 @@ body:
     validations:
       required: true
   - type: textarea
-    id: talk-abstract
+    id: bof-abstract
     attributes:
       label: Abstract
-      description: Write an abstract of your talk.
+      description: Write an abstract of your BOF.
       placeholder: Tell us your talk abstract!
       value: "It is about Bioconductor related R package or community. It is ..."
     validations:
       required: true
   - type: textarea
-    id: datetime-preference
+    id: date-preference
     attributes:
-      label: A convenient date and time for your talk. Do not forget to include your time zone.
+      label: A convenient date for your BOF.
       description: When do you hope your talk?
     validations:
       required: true
