@@ -1,7 +1,7 @@
 name: Submission of abstract for Long workshop session
 description: File a abstract submission
 title: "[workshop]: REPLACE ME WITH YOUR LONG WORKSHOP ABSTRACT TITLE"
-labels: [workshop, abstract]
+labels: [workshop]
 assignees:
   - kozo2
 body:
