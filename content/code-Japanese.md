@@ -25,8 +25,9 @@ _Bioconductor_ は、以下にかかわらず、すべての人に協力的で�
 カンファレンス参加者への嫌がらせ、脅迫、いじめは容認しません。
 性的な言葉や画像は、プレゼンテーション、コミュニケーション、オンライン会場(チャットを含む)でふさわしくありません。
 
-Conference participants violating these rules may be sanctioned or expelled from the conference, 
-at the discretion of the conference organizers. Our anti-harassment policy can be found at [https://bioc2020.bioconductor.org/code_of_conduct](https://bioc2020.bioconductor.org/code_of_conduct)
+これらのルールに違反するカンファレンス参加者は、カンファレンス主催者の裁量により、制裁を受けるか、会議から追放される場合があります。
+私たちのハラスメント防止ポリシーは [https://bioc2020.bioconductor.org/code_of_conduct](https://bioc2020.bioconductor.org/code_of_conduct)
+で見ることができます。
 
 ## Examples of unacceptable harassment, intimidation, and bullying behavior
 
