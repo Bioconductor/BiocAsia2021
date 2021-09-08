@@ -31,9 +31,7 @@ body:
     id: date-preference
     attributes:
       label: A convenient date for your BOF.
-      description: When do you hope your talk?
-    validations:
-      required: true
+      description: However, the request is not always reflected.
   - type: textarea
     id: comment
     attributes:
