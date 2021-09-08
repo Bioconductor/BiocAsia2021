@@ -1,7 +1,7 @@
 name: Submission of abstract for Birds-of-a-feather session
 description: File a abstract submission
 title: "[bof]: REPLACE ME WITH YOUR BOF ABSTRACT TITLE"
-labels: [bof, abstract]
+labels: [bof]
 assignees:
   - kozo2
 body:
