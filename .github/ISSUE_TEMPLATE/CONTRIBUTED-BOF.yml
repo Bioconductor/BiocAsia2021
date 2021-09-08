@@ -30,7 +30,7 @@ body:
   - type: textarea
     id: date-preference
     attributes:
-      label: A convenient date for your BOF.
+      label: A convenient da for your BOF.
       description: However, the request is not always reflected.
   - type: textarea
     id: comment
