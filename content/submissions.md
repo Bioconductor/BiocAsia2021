@@ -5,15 +5,15 @@ description = "Submissions"
 
 ## Abstract submission
 
-A few days later you will find a link to the submission form here.
-<!--[Access the BioC Asia 2021 abstract submission GitHub issue form](https://github.com/Bioconductor/BiocAsia2021/issues/new/choose)-->
+<!--A few days later you will find a link to the submission form here.-->
+[Access the BioC Asia 2021 abstract submission GitHub issue form](https://github.com/Bioconductor/BiocAsia2021/issues/new/choose)
 
 ## Important dates
 
 <!--* January 22, 2021: Call for abstracts opens
 * New! Deadline extended to March 16, 2021: Abstract submission closes-->
 
-* September 3, 2021: Registration opens
+* September 7, 2021: Registration opens
 * September 8, 2021: Call for abstracts opens
 <!--* Abstract submission is now closed. All submissions are currently under review.-->
 * September 30, 2021: Call for abstracts closes
