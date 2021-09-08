@@ -29,7 +29,7 @@ _Bioconductor_ は、以下にかかわらず、すべての人に協力的で�
 私たちのハラスメント防止ポリシーは [https://bioc2020.bioconductor.org/code_of_conduct](https://bioc2020.bioconductor.org/code_of_conduct)
 で見ることができます。
 
-## Examples of unacceptable harassment, intimidation, and bullying behavior
+## 容認できない嫌がらせ、脅迫、いじめ行為の例
 
 Harassment includes, but is not limited to:
 
