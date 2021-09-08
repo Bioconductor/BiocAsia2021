@@ -13,7 +13,7 @@ description = "行動規範"
 発表資料の共有を希望されない場合は、できる限り早く組織委員会(organizing committee)にご連絡ください。
 <!--To avoid confusion, presentations not to be shared should be labeled "Do Not Share" on each slide, as should be posters.-->
 
-## The _Bioconductor_ conference aims to provide a supportive, collegial, and harassment-free environment
+## _Bioconductor_ のカンファレンスは、支持的で、平等に権限を有し、ハラスメントのない環境を提供することを目指しています
 
 _Bioconductor_ is dedicated to providing a supportive, collegial, and harassment-free 
 conference experience for everyone, regardless of:
