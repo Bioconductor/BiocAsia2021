@@ -3,7 +3,7 @@ title = "行動規範"
 description = "行動規範"
 +++
 
-This code of conduct is developed for the virtual Bioc Asia 2021 conference. For more details, see the [Bioconductor Code of Conduct](https://www.bioconductor.org/about/code-of-conduct/)
+この行動規範は、Bioc Asia 2021 バーチャルカンファレンス用に策定されています。さらに詳しい点については、[Bioconductorの行動規範](https://www.bioconductor.org/about/code-of-conduct/)を参照してください。
 <!-- The original Code of Conduct is copy-pasted and quoted below -->
 
 ## Social media policy
