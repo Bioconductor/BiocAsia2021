@@ -31,14 +31,15 @@ _Bioconductor_ は、以下にかかわらず、すべての人に協力的で�
 
 ## 容認できない嫌がらせ、脅迫、いじめ行為の例
 
-Harassment includes, but is not limited to:
+ハラスメントには以下が含まれますが、これらに限定されません:
 
-* Making comments in chats, to an audience or personally, that belittle or demean another person
-* Sharing sexual images online
-* Harassing photography or recording
+* 聴衆に、または個人的に、他の人を軽蔑したり侮辱するコメントをチャットで行う
+* 性的な画像をオンラインで共有する
+* 嫌がらせの写真や録音
 * Sustained disruption of talks or other events
-* Unwelcome sexual attention
-* Advocating for, or encouraging, any of the above behavior 
+* トークやその他のイベントのしつこい妨害
+* ありがたくない性的な注目のされ方
+* 上記の行動のいずれかを擁護またはけしかけること
 
 Intimidation and bullying include, but are not limited to:
 
