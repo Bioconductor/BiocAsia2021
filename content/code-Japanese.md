@@ -6,7 +6,7 @@ description = "行動規範"
 この行動規範は、Bioc Asia 2021 バーチャルカンファレンス用に策定されています。さらに詳しい点については、[Bioconductorの行動規範](https://www.bioconductor.org/about/code-of-conduct/)を参照してください。
 <!-- The original Code of Conduct is copy-pasted and quoted below -->
 
-## Social media policy
+## ソーシャルメディアポリシー
 
 Images and content from talks, workshops, and posters may be shared publicly through social media (Twitter, etc.). Videos will be released on the [Youtube Bioconductor channel](https://www.youtube.com/user/bioconductor). Please, inform the organizing committee as soon as possible if you don't wish your presentation material to be shared. <!--To avoid confusion, presentations not to be shared should be labeled "Do Not Share" on each slide, as should be posters.-->
 
