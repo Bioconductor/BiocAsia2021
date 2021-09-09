@@ -41,14 +41,12 @@ _Bioconductor_ は、以下にかかわらず、すべての人に協力的で�
 * ありがたくない性的な注目のされ方
 * 上記の行動のいずれかを擁護またはけしかけること
 
-Intimidation and bullying include, but are not limited to:
+脅迫やいじめには以下が含まれますが、これらに限定されません:
 
-* Aggressive or browbeating behavior directed at someone during a public presentation
-* Mocking or insulting another person's intellect, work, perspective, or question/comment
-* Making reference to someone's gender, gender identity and expression, sexual orientation, disability, 
-physical appearance, body size, race, age, religion, or other personal attributes in the context of a scientific 
-discussion
-* Deliberately making someone feel unwelcome
+* 公開プレゼンテーション中に誰かに向けられた攻撃的または脅す行動
+* 他人の知性、仕事、視点、または質問/コメントを嘲笑または侮辱すること
+* 科学的議論の文脈で、誰かの性別、性同一性と表現、性的指向、障害、容貌、体の大きさ、人種、年齢、宗教、またはその他の個人的属性に言及すること
+* 故意に誰かを歓迎されていないと感じさせること
 
 ### Enforcement
 
