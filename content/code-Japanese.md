@@ -36,9 +36,8 @@ _Bioconductor_ は、以下にかかわらず、すべての人に協力的で�
 * 聴衆に、または個人的に、他の人を軽蔑したり侮辱するコメントをチャットで行う
 * 性的な画像をオンラインで共有する
 * 嫌がらせの写真や録音
-* Sustained disruption of talks or other events
 * トークやその他のイベントのしつこい妨害
-* ありがたくない性的な注目のされ方
+* 歓迎されない性的な注目のされ方
 * 上記の行動のいずれかを擁護またはけしかけること
 
 脅迫やいじめには以下が含まれますが、これらに限定されません:
@@ -48,37 +47,40 @@ _Bioconductor_ は、以下にかかわらず、すべての人に協力的で�
 * 科学的議論の文脈で、誰かの性別、性同一性と表現、性的指向、障害、容貌、体の大きさ、人種、年齢、宗教、またはその他の個人的属性に言及すること
 * 故意に誰かを歓迎されていないと感じさせること
 
-### Enforcement
+### 実施
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+嫌がらせ行為の中止を求められた参加者は、直ちにこれに応じるものとします。
 
-If a participant engages in harassing behavior, event organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the conference. 
+もし参加者がハラスメント行為を行った場合、イベント主催者は、すべての参加者にとって快適な環境に保つために、あらゆる措置を取る権利を有します。これには、違反者への警告や会議からの退出も含まれます。
 
-Event organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. 
+イベント主催者は、イベントを混乱させたり、参加者にとって敵対的な環境を作ることを目的とした、あるいは明らかな影響を与える行為を是正するための措置を取ることができます。
 
-We expect participants to follow these rules at all event venues and event-related online activities.
+私たちは、参加者がすべてのイベント会場およびイベント関連のオンライン活動において、これらの規則に従うことを期待します。
 
-### Reporting
+### 報告
 
-If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. 
-Harassment and other code of conduct violations reduce the value of our event for everyone. 
-We want you to be happy at our event. People like you make our event a better place. 
+もしあなたや他の人が、危険や歓迎されていないと感じた場合は、できるだけ早く報告してください。
+ハラスメントやその他の行動規範違反は、すべての人にとって当イベントの価値を下げるものです。
 
-You can make a report either personally or anonymously. 
+私たちは、あなたがイベントを楽しむことを望んでいます。あなた達一人一人がイベントをより良いものにしてくれます。
 
-#### Anonymous or Non-anonymous Report
+報告は、個人または匿名で行うことができます。
 
-You can make an anonymous or non-anonymous report here: [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint). It is a free-form text box that will be forwarded to conference organizers.
+#### 匿名・非匿名での報告
 
-We can't follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence. 
+匿名・非匿名での報告はこちらから: [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint)。
 
-#### Personal Report
+自由記述のテキストボックスで、会議の主催者に転送されます。
 
-You can make a personal report with any of the conference anti-harassment committee: Kozo Nishida.
+匿名の報告を直接フォローすることはできませんが、十分に調査し、再発防止のために必要な措置を講じます。
 
-When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. Once safe, we'll ask you to tell us about what happened. This can be upsetting, but we'll handle it as respectfully as possible, and you can bring someone to support you. You won't be asked to confront anyone, and we won't tell anyone who you are. 
+#### 個人的な報告
 
-### Code of Conduct violation reports 
+大会のハラスメント防止委員会のいずれか（例: 西田孝三）に個人的な報告をすることができます。
 
-* Email: [code-of-conduct@bioconductor.org](mailto:workshop@bioconductor.org?subject=BioC2019%20code-of-conduct)
-* Anonymous Code of Conduct violation reports: [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint)
+個人的な報告を受ける場合、スタッフはあなたの安全を確保し、口外されないようにします。また、他のイベントスタッフと協力して、あなたの報告が適切に管理されるようにします。安全が確保されたら、何が起こったのかを話していただきます。動揺されるかもしれませんが、できる限り敬意を持って対応します。サポートしてくれる人を同伴していただくことも可能です。誰かと対面するように求められることはありませんし、あなたが誰であるかを誰かに伝えることもありません。
+
+### 行動規範違反報告
+
+* Eメール（英語での報告をお願いしております）: [code-of-conduct@bioconductor.org](mailto:workshop@bioconductor.org?subject=BioC2019%20code-of-conduct)
+* 匿名での行動規範違反報告: [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint)
