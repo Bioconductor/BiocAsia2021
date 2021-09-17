@@ -10,14 +10,6 @@ body:
       value: |
         Please submit this form and let us know your BOF abstract. Reviews will be done openly on the issue created by the submission.
         Please review [the BioC Asia 2021 Code of Conduct](https://biocasia2021.bioconductor.org/code/) before submitting this form. Thanks for taking the time to fill out this form!
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you (if we need to exchange information privately)?
-      placeholder: ex. email@example.com
-    validations:
-      required: true
   - type: textarea
     id: bof-abstract
     attributes:
