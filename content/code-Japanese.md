@@ -86,5 +86,5 @@ _Bioconductor_ は、以下にかかわらず、すべての人に協力的で�
 
 ### 行動規範違反報告
 
-* Eメール: [code-of-conduct@bioconductor.org](mailto:workshop@bioconductor.org?subject=BioC2019%20code-of-conduct)
+* Eメール: [code-of-conduct@bioconductor.org](mailto:workshop@bioconductor.org)
 * 匿名での行動規範違反報告: [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint)
