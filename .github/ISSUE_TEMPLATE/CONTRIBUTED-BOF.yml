@@ -24,6 +24,12 @@ body:
     attributes:
       label: Convenient day for your BOF.
       description: However, the request is not always reflected.
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: It is optional to write here. If you do not want your email address to be published, you do not have to write it. We will use the email address if we need to contact you privately.
+      placeholder: ex. email@example.com
   - type: textarea
     id: comment
     attributes:
