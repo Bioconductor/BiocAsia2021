@@ -44,6 +44,12 @@ paginate = 10
     url  = "/schedule/"
     weight = 4
 
+#[[menu.main]]
+#    identifier="workshops"
+#    name = "Workshops"
+#    url  = "/workshops/"
+#    weight = 5
+
 [[menu.main]]
     identifier = "organizers"
     name = "Organizers"

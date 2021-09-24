@@ -11,6 +11,9 @@
     <loc>/posts/</loc>
     <lastmod>2020-10-16T18:52:14-04:00</lastmod>
   </url><url>
+    <loc>/workshops/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/code/</loc>
