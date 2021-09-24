@@ -12,6 +12,7 @@ body:
         Workshops can be conducted in Japanese, Mandarin, or English.
         However, please write the abstract in English so that anyone can understand the content of this review.
         Please review [the BioC Asia 2021 Code of Conduct](https://biocasia2021.bioconductor.org/code/) before submitting this form.
+        We ask that your workshop be conducted using our [Orchestra platform](http://app.orchestra.cancerdatasci.org/) whenever possible.
         Create workshops from [this template project](https://github.com/seandavi/BuildABiocWorkshop) whenever possible.
         Following this will make your workshop reproducible without having to set up the local environment.
         Thanks for taking the time to fill out this form!
