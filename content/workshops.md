@@ -5,7 +5,7 @@ description = "Code of conduct"
 
 ## Workshops
 
-### Mandarin Invited Workshops (by 孫 建強 Jianqiang Sun)
+### Invited Mandarin Workshops (by 孫 建強 Jianqiang Sun)
 
 #### Introduction to image recognition with deep learning
 
