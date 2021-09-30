@@ -15,8 +15,6 @@
   </url><url>
     <loc>/code/</loc>
   </url><url>
-    <loc>/workshops/</loc>
-  </url><url>
     <loc>/contact/</loc>
   </url><url>
     <loc>/organizers/</loc>
@@ -32,6 +30,8 @@
     <loc>/submissions/</loc>
   </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/workshops/</loc>
   </url><url>
     <loc>/code-mandarin/</loc>
   </url><url>
