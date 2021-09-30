@@ -1,6 +1,6 @@
 +++
-title = "Code of conduct"
-description = "Code of conduct"
+title = "Workshops"
+description = "Workshops"
 +++
 
 ## Workshops
