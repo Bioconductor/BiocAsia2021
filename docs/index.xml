@@ -101,7 +101,7 @@ Important dates  September 7, 2021: Registration opens September 8, 2021: Call f
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/workshops/</guid>
-      <description>Workshops Invited Mandarin Workshops (by 孫 建強 Jianqiang Sun) Introduction to image recognition with deep learning 卷积神经网络（Convolutional neural network; CNN）是用于图像识别的深度神经网络架构之一。 使用传统的机器学习方法来识别图像中的物体需要手动指定物体的特征，如颜色、大小、长宽比等。 相比之下，CNN 可以通过学习大量的图像，自动提取该特征。 因此，使用 CNN 建立一个图像识别模型，只需要收集大量的图像，而无需开发新的算法来提取特征。 如今，这种简单易行的方法在许多研究领域备受欢迎。在本次研讨会上，我们将学习如何使用为 R 提供的 torch 软件包来构建 CNN 模型进行图像识别。
+      <description>Workshops Invited Mandarin Workshops (by 孙建强 Jianqiang Sun) Introduction to image recognition with deep learning 卷积神经网络（Convolutional neural network; CNN）是用于图像识别的深度神经网络架构之一。 使用传统的机器学习方法来识别图像中的物体需要手动指定物体的特征，如颜色、大小、长宽比等。 相比之下，CNN 可以通过学习大量的图像，自动提取该特征。 因此，使用 CNN 建立一个图像识别模型，只需要收集大量的图像，而无需开发新的算法来提取特征。 如今，这种简单易行的方法在许多研究领域备受欢迎。在本次研讨会上，我们将学习如何使用为 R 提供的 torch 软件包来构建 CNN 模型进行图像识别。
 Convolutional neural network (CNN) is one of the deep neural network architectures used for image recognition. In contrast to the traditional machine learning methods that require humans to manually specify the features of objects such as color, size, aspect ratio, and so on, CNNs can automatically extract that feature by learning a large number of images.</description>
     </item>
     
