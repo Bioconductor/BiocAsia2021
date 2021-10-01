@@ -5,7 +5,7 @@ description = "Workshops"
 
 ## Workshops
 
-### Invited Mandarin Workshops (by 孫 建強 Jianqiang Sun)
+### Invited Mandarin Workshops (by 孙建强 Jianqiang Sun)
 
 #### Introduction to image recognition with deep learning
 
