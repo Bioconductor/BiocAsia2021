@@ -18,3 +18,12 @@ Convolutional neural network (CNN) is one of the deep neural network architectur
 深度学习在计算机视觉以及自然言语处理等诸多领域取得重大成果，其技术现已被应用在包括生命科学在内的其它领域。深度学习主要通过构建深度神经网络来解决传统机器学习算法难以解决的问题。在诸多种深度学习的网络结构中，卷积神经网络（Convolutional neural network; CNN）以及循环神经网络（Recurrent neural network; RNN）最为人们熟知。其中，卷积神经网络在目标识别及目标检测等计算机视觉领域表现出色；循环神经网络则是在时间序列数据处理以及自然言语处理方面表现出色。在本次研习会上，我们考虑到众多 Bioconductor 用户熟悉于基因组序列分析，因此我们将讲解循环神经网络的基本算法以及如何使用 R 构建循环神经网络的方法。
 
 Deep learning has proven to be one of the state-of-the-art tools in object recognition and natural language processing, and has been applied to many fields. Deep learning refers to the use of multiple layers of neural networks which is one of the traditional machine learning algorithms. Deep neural networks can solve problems that are difficult to solve with conventional machine learning algorithms. At present, various architectures of deep neural networks have been published, especially convolutional neural networks (CNN) and recurrent neural networks (RNN) are well known. The former is known to be excellent in computer visions such as object recognition and object detection, while the latter, RNN, is known to be excellent in time-series data analysis and natural language processing. Considering many Bioconductor users are familiar with genome sequence analysis, in this workshop, we will focus on RNN, and introduce the fundamental algorithm of RNN and procedures to build RNN models using R.
+
+### Invited Japanese Workshop (by 久米 慧嗣 Satoshi Kume)
+
+#### Rにおけるバイオ画像解析入門 : Introduction to Bioimaging Analysis in R
+
+このワークショップでは、BioconductorパッケージであるEBImageを使って、Rでの画像処理・画像解析の基本的な方法を扱う。次に、BioImageDbsパッケージを用いて、ExperimentHubからの画像データの取得を行う。さらに、rMiWパッケージが提供する、Deep learningモデルの１つであるU-NETモデルを用いて、教師有り画像セグメンテーション（領域分割）を学び。このワークショップは、Orchestra環境にて実施する。
+
+This workshop covers basic methods of the image processing and image analysis in R using the Bioconductor package "EBImage" and the Orchestra platform. In addition, the image dataset is obtained from ExperimentHub using the "BioImageDbs" package. Using this dataset, we perform a supervised image segmentation using the U-NET model, one of deep learning models, provided by the rMiW package.
+
