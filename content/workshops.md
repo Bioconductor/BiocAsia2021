@@ -19,6 +19,8 @@ Convolutional neural network (CNN) is one of the deep neural network architectur
 
 Deep learning has proven to be one of the state-of-the-art tools in object recognition and natural language processing, and has been applied to many fields. Deep learning refers to the use of multiple layers of neural networks which is one of the traditional machine learning algorithms. Deep neural networks can solve problems that are difficult to solve with conventional machine learning algorithms. At present, various architectures of deep neural networks have been published, especially convolutional neural networks (CNN) and recurrent neural networks (RNN) are well known. The former is known to be excellent in computer visions such as object recognition and object detection, while the latter, RNN, is known to be excellent in time-series data analysis and natural language processing. Considering many Bioconductor users are familiar with genome sequence analysis, in this workshop, we will focus on RNN, and introduce the fundamental algorithm of RNN and procedures to build RNN models using R.
 
+---
+
 ### Invited Japanese Workshop (by 久米 慧嗣 Satoshi Kume)
 
 #### Rにおけるバイオ画像解析入門 : Introduction to Bioimaging Analysis in R
