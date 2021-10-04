@@ -20,7 +20,7 @@ Please click the form link while logged in to GitHub.
 * ~~September 8, 2021: Call for abstracts opens~~
 <!--* Abstract submission is now closed. All submissions are currently under review.-->
 * ~~September 30, 2021: Call for abstracts closes~~
-* October 3, 2021: Notification of decision
+* ~~October 3, 2021: Notification of decision~~
 * October 3, 2021: Second call for workshops opens
 * October 8, 2021: Second notification of decision
 * November 1-4, 2021: BioC Asia 2021
