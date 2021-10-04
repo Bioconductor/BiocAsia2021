@@ -75,10 +75,16 @@ paginate = 10
     weight = 9
 
 [[menu.main]]
+    identifier = "jobs"
+    name = "求人"
+    url  = "/jobs/"
+    weight = 10
+
+[[menu.main]]
     identifier = "conferences"
     name = "Past conferences"
     url  = "/conferences/"
-    weight = 10
+    weight = 11
 
 # [[menu.main]]
 #     identifier = "contact"
