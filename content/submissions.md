@@ -17,7 +17,7 @@ Please click the form link while logged in to GitHub.
 * New! Deadline extended to March 16, 2021: Abstract submission closes-->
 
 * September 7, 2021: Registration opens
-* ~~September 8, 2021: Call for abstracts opens ~~
+* ~~September 8, 2021: Call for abstracts opens~~
 <!--* Abstract submission is now closed. All submissions are currently under review.-->
 * ~~September 30, 2021: Call for abstracts closes~~
 * October 3, 2021: Notification of decision
