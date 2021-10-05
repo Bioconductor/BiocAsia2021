@@ -1,4 +1,4 @@
 text: "Shian Su is a PhD candidate at The Walter and Eliza Hall Institute of Medical Research. He is a maintainer of \"Glimma\" that accepts and visualizes differential expression results from \"limma\" and others https://doi.org/10.1093/bioinformatics/btx094 . He and Hasaru Kariyawasam recently published a preprint of Glimma 2.0 that enables interactive dashboard-style visualization in R Markdown https://doi.org/10.1101/2021.07.30.454464 ."
-name: "Invited talk, Shian Su: \"Dashboard-style interactive plots for RNA-seq analysis are R Markdown ready with Glimma 2.0\""
+name: "Invited talk, Shian Su (day4 14:30~): \"Dashboard-style interactive plots for RNA-seq analysis are R Markdown ready with Glimma 2.0\""
 position: "Walter and Eliza Hall Institute of Medical Research, Australia"
 avatar: "img/speakers/Shian.jpg"
