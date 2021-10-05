@@ -13,4 +13,10 @@ Relative log expression (RLE) plots, on the other hand, are sensitive to technic
 RLE plots also have significant advantages over similar robust plots, e.g. boxplots.
 These claims are demonstrated through the use of real data examples and statistical simulation.
 
-### (time) 
+### (time) Pengyi Yang: "PhosR enables processing and functional analysis of phosphoproteomic data"
+
+Mass spectrometry (MS)-based phosphoproteomics has revolutionized our ability to profile phosphorylation-based signaling in cells and tissues on a global scale.
+In this talk, I will introduce PhosR, a set of tools and methodologies implemented in a Bioconductor R package to allow the comprehensive analysis of phosphoproteomic data.
+PhosR enables processing steps such as imputation, normalization, and functional analysis such as kinase activity inference and signalome construction.
+Together, PhosR facilitates interpretation and discovery from large-scale phosphoproteomic data sets.
+
