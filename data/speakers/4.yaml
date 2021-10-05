@@ -1,5 +1,4 @@
-text: "Takeya Kasukawa is the team leader of RIKEN Center for Integrative Medical Sciences, Laboratory for Large-Scale Biomedical Data Technology. His major is the development of data management technology that will lead to new discoveries in the field of biomedical science. He has maintained the database of the international collaborative research \"FANTOM (Functional ANnoTation of Mammalian Genome) Project\". This database is widely provided to the research community and is expected to contribute to the elucidation of biological phenomena."
-name: "Keynote (day4), Takeya Kasukawa: \"FANTOM project and data resource for understanding the transcription in the mammalian genomes\""
-position: "RIKEN Center for Integrative Medical Sciences, Japan"
-avatar: "img/speakers/TakeyaKasukawa.jfif"
-
+text: "Lori Ann Shepherd is one of the members of the Bioconductor Core Team, Bioconductor Community Advisory Board and Bioconductor Technical Advisory Board. Since joining the core team, she has long designed and maintained Bioconductor key infrastructure and packages, administrated the package review process for package submissions from the community, and assisted with numerous courses, workshops, and conferences. Her efforts and contributions were recognized by being one of the 2020 inaugural Bioconductor Community Awards recipients https://youtu.be/noHn5fEbBwA?t=2708 ."
+name: "Keynote (day2 13:00~), Lori Ann Shepherd: \"What is Bioconductor? : How the Core Team Plays an Essential Role\""
+position: "Roswell Park Comprehensive Cancer Center, USA"
+avatar: "img/speakers/Lori.png"

@@ -1,4 +1,5 @@
-text: "Janani Ravi is an Assistant Professor in the Dept. of Pathobiology and Diagnostic Investigation at Michigan State University. Her research group develops computational approaches to study infectious diseases. Specific areas of their interest include protein sequence-structure-function relationships, comparative genomics, and drug repurposing. Janani is also the founder of two organizations that promote diversity in data science: R-Ladies East Lansing and Women+ Data Science."
-name: "Invited talk, Janani Ravi: \"AsiaR community and R-Ladies in Asia\""
-position: "Michigan State University, USA"
-avatar: "img/speakers/JananiRavi.jpeg"
+text: "Takeya Kasukawa is the team leader of RIKEN Center for Integrative Medical Sciences, Laboratory for Large-Scale Biomedical Data Technology. His major is the development of data management technology that will lead to new discoveries in the field of biomedical science. He has maintained the database of the international collaborative research \"FANTOM (Functional ANnoTation of Mammalian Genome) Project\". This database is widely provided to the research community and is expected to contribute to the elucidation of biological phenomena."
+name: "Keynote (day4 13:00~), Takeya Kasukawa: \"FANTOM project and data resource for understanding the transcription in the mammalian genomes\""
+position: "RIKEN Center for Integrative Medical Sciences, Japan"
+avatar: "img/speakers/TakeyaKasukawa.jfif"
+

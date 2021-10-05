@@ -1,4 +1,4 @@
-text: "Nitesh Turaga is a core team member at the Bioconductor project, working at the intersection of Data Science, Computational biology, and Software Engineering. He is currently a Scientist in the Department of Data Science at Dana Farber Cancer Institute / Harvard. Before Bioconductor, he worked as a Software Engineer for the Galaxy Project at Johns Hopkins."
-name: "Invited talk, Nitesh Turaga: \"Efficient use of Bioconductor in cloud computing environment\""
-position: "Dana Farber Cancer Institute of Harvard Medical School, USA"
-avatar: "img/speakers/NiteshTuraga.jpeg"
+text: "Dr. Koki Tsuyuzaki is a post-doc researcher at RIKEN BDR BiT and a researcher at JST PRESTO. He is one of the active Bioconductor committers and has developed hundreds of R/Bioconductor packages including metaSeq, AHMeSHDbs, MeSHDbi, AHLRBaseDbs, LRBaseDbi, AHPubMedDbs, scTensor, and scTGIF. He will present his recent development of some R packages for tensor decomposition to handle large-scale and complex tensor data structures."
+name: "Invited talk, Koki Tsuyuzaki (day3 14:30~): \"Guidelines to handle large-scale and complex tensor data in R\""
+position: "RIKEN Center for Biosystems Dynamics Research, Japan"
+avatar: "img/speakers/KokiTsuyuzaki.jpg"

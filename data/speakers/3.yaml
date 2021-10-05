@@ -1,4 +1,4 @@
-text: "Dr Tatsuya Amano is an Australian Research Council Future Fellow at the School of Biological Sciences, the University of Queensland in Australia. He specializes in \"Conservation Science\" and launched a project to understand the consequences of the language barrier in biodiversity conservation (the translatE project – Transcending Language Barriers to Environmental Sciences: https://translatesciences.com). He also recently published an article called \"Ten tips for overcoming language barriers in science\". https://rdcu.be/cnZQf "
-name: "Keynote (day3), Tatsuya Amano: \"Overcoming language barriers in science\""
-position: "The University of Queensland, Australia"
-avatar: "img/speakers/TatsuyaAmano.jpeg"
+text: "Stefano Mangiola is a postdoctoral fellow at Walter and Eliza Hall Institute of Medical Research, focused on tumor microenvironment. Maria Doyle is an application and training specialist for research computing at Peter MacCallum Cancer Centre. Stefano and Maria have developed a suite of software that integrates the tidyverse framework and transcriptomics analysis, and publishes them as Bioconductor packages. As part of this effort, Stefano and Maria developed an interface for Seurat with tidyverse, which is published in https://doi.org/10.1093/bioinformatics/btab404 ."
+name: "Invited talk (day1 14:30~), Stefano Mangiola and Maria Doyle: \"Interfacing Seurat with the R tidy universe\""
+position: "Walter and Eliza Hall Institute of Medical Research, Australia"
+avatar: "img/speakers/StefanoAndMaria.png"

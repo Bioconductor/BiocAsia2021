@@ -1,4 +1,4 @@
-text: "Yunshun Chen is a senior postdoctoral researcher at Walter and Eliza Hall Institute of Medical Research. He is one of the authors and the main maintainer of the edgeR package - the arguably world’s most popular R package specifically designed for Next Generation Sequencing (NGS) data. His research focuses on differential expression analysis of the NGS data, as well as single-cell RNA-seq analysis."
-name: "Invited talk (day2), Yunshun Chen: \"edgeR: differential analysis of sequence read count data\""
+text: "Soroor Hediyeh-zadeh is a graduate research student in the department of medical biology (Walter and Eliza Hall Institute) at The University of Melbourne. Previously, She was a Research Assistant (RA) in A/Prof. Melissa Davis's Lab at the Bioinformatics Division in WEHI, and a Masters student at The University of Melbourne in the School of Mathematics and Statistics. She is broadly interested in developing and studying machine learning and statistical models for the analysis of transcriptomics and proteomics data."
+name: "Invited talk (day2 14:30~), Soroor Hediyeh-zadeh: \"MsImpute: Estimation of missing peptide intensity values in label-free mass spectrometry\""
 position: "Walter and Eliza Hall Institute of Medical Research, Australia"
-avatar: "img/speakers/Andy.png"
+avatar: "img/speakers/Soroorh.png"
