@@ -1,4 +1,4 @@
-text: "Stefano Mangiola is a postdoctoral fellow at Walter and Eliza Hall Institute of Medical Research, focused on tumor microenvironment. Maria Doyle is an application and training specialist for research computing at Peter MacCallum Cancer Centre. Stefano and Maria have developed a suite of software that integrates the tidyverse framework and transcriptomics analysis, and publishes them as Bioconductor packages. As part of this effort, Stefano and Maria developed an interface for Seurat with tidyverse, which is published in https://doi.org/10.1093/bioinformatics/btab404 ."
-name: "Invited talk (day1 14:30~), Stefano Mangiola and Maria Doyle: \"Interfacing Seurat with the R tidy universe\""
+text: "Yunshun Chen is a senior postdoctoral researcher at Walter and Eliza Hall Institute of Medical Research. He is one of the authors and the main maintainer of the edgeR package - the arguably world’s most popular R package specifically designed for Next Generation Sequencing (NGS) data. His research focuses on differential expression analysis of the NGS data, as well as single-cell RNA-seq analysis."
+name: "Invited talk (day2 14:00~), Yunshun Chen: \"edgeR: differential analysis of sequence read count data\""
 position: "Walter and Eliza Hall Institute of Medical Research, Australia"
-avatar: "img/speakers/StefanoAndMaria.png"
+avatar: "img/speakers/Andy.png"

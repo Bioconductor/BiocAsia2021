@@ -1,4 +1,4 @@
-text: "Lori Ann Shepherd is one of the members of the Bioconductor Core Team, Bioconductor Community Advisory Board and Bioconductor Technical Advisory Board. Since joining the core team, she has long designed and maintained Bioconductor key infrastructure and packages, administrated the package review process for package submissions from the community, and assisted with numerous courses, workshops, and conferences. Her efforts and contributions were recognized by being one of the 2020 inaugural Bioconductor Community Awards recipients https://youtu.be/noHn5fEbBwA?t=2708 ."
-name: "Keynote (day2 13:00~), Lori Ann Shepherd: \"What is Bioconductor? : How the Core Team Plays an Essential Role\""
-position: "Roswell Park Comprehensive Cancer Center, USA"
-avatar: "img/speakers/Lori.png"
+text: "Belinda Phipson is a senior researcher at the Peter MacCallum Cancer Centre. Together with Jovana Maksimovic, they have long maintained missMethyl, a Bioconductor package for analyzing Illumina HumanMethylation BeadChip data. They have also contributed a Bioconductor methylation workflow package that uses many methylation specific Bioconductor packages, including missMethyl https://doi.org/doi:10.18129/B9.bioc.methylationArrayAnalysis . Recently, they published a paper benchmarking gene set testing methods for methylation array data, with new methods implemented in missMethyl https://doi.org/10.1186/s13059-021-02388-x ."
+name: "Invited talk (day1 14:00~), Belinda Phipson: \"Gene set enrichment analysis for genome-wide DNA methylation data\""
+position: "Peter MacCallum Cancer Centre, Australia"
+avatar: "img/speakers/BelindaPhipson.jpg"

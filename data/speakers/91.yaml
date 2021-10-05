@@ -1,4 +1,4 @@
-text: "Erqiang Hu and Tizanzhi Wu are PhD students at the Department of Bioinformatics, Southern Medical University. The professor Guangchuang Yu group, including Erqiang and Tianzhi, recently published a paper on clusterProfiler 4.0 from the Innovation Journal. https://doi.org/10.1016/j.xinn.2021.100141"
-name: "Invited talk, Erqiang Hu and Tizanzhi Wu (day3 14:00~): \"clusterProfiler 4.0 and the new features\""
-position: "Southern Medical University, China"
-avatar: "img/speakers/ErqiangAndTizanzhi.png"
+text: "Dr. Koki Tsuyuzaki is a post-doc researcher at RIKEN BDR BiT and a researcher at JST PRESTO. He is one of the active Bioconductor committers and has developed hundreds of R/Bioconductor packages including metaSeq, AHMeSHDbs, MeSHDbi, AHLRBaseDbs, LRBaseDbi, AHPubMedDbs, scTensor, and scTGIF. He will present his recent development of some R packages for tensor decomposition to handle large-scale and complex tensor data structures."
+name: "Invited talk, Koki Tsuyuzaki (day3 14:30~): \"Guidelines to handle large-scale and complex tensor data in R\""
+position: "RIKEN Center for Biosystems Dynamics Research, Japan"
+avatar: "img/speakers/KokiTsuyuzaki.jpg"

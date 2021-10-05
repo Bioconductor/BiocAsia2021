@@ -1,4 +1,4 @@
-text: "Hao (Harry) Feng is an Assistant Professor in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. He is a biostatistician and bioinformatician by training. He is one of the authors and maintainers of the DSS package --- a method known for differential analysis in transcriptome and methylation sequencing data. His group develops statistical methods for high-throughput -omics data, especially in epigenomics and single-cell research. "
-name: "Invited talk, Hao Harry Feng (day4 14:00~): \"NeuCA: a neural network-based method for exhaustive cell label assignment using single cell RNA-seq data\""
-position: "Case Western Reserve University, USA"
-avatar: "img/speakers/feng-hao-harry.jpeg"
+text: "Shian Su is a PhD candidate at The Walter and Eliza Hall Institute of Medical Research. He is a maintainer of \"Glimma\" that accepts and visualizes differential expression results from \"limma\" and others https://doi.org/10.1093/bioinformatics/btx094 . He and Hasaru Kariyawasam recently published a preprint of Glimma 2.0 that enables interactive dashboard-style visualization in R Markdown https://doi.org/10.1101/2021.07.30.454464 ."
+name: "Invited talk, Shian Su (day4 14:30~): \"Dashboard-style interactive plots for RNA-seq analysis are R Markdown ready with Glimma 2.0\""
+position: "Walter and Eliza Hall Institute of Medical Research, Australia"
+avatar: "img/speakers/Shian.jpg"
