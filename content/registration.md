@@ -14,9 +14,11 @@ is now open!
 
 Free
 
+<!--
 ## FAQ
 
 TBA
+-->
 
 <!--
 All time is US Eastern Time. All sessions include Q&A time.

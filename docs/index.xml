@@ -36,6 +36,16 @@ Social media policy Images and content from talks, workshops, and posters may be
     </item>
     
     <item>
+      <title>Contributed talks</title>
+      <link>/contributions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contributions/</guid>
+      <description>THE FOLLOWING TIMES ARE ALL JAPAN TIME
+day1 (15:00~) Omar El-Ashkar: &amp;ldquo;rGenomeTracks: Extending epigenetic visualization methods in R&amp;rdquo; High throughput sequencing technologies have been proved useful in a plethora of omics. Epigenomics is an area of active research that innovatively blends different biological techniques with sequencing to gain new insight into epigenetic regulations like chromatin accessibility, genome topology and nucleosome positioning. One of the cornerstones of analyzing such data is to be able to visualize it.</description>
+    </item>
+    
+    <item>
       <title>link to recruiting platform &#39;tayo&#39;</title>
       <link>/jobs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -70,8 +80,7 @@ tayo.jp 研究分野の求人情報にご興味をお持ちの方はぜひ御覧
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/registration/</guid>
-      <description>Registration to the virtual Bioc Asia 2021 conference Registration link Fees Free
-FAQ TBA</description>
+      <description>Registration to the virtual Bioc Asia 2021 conference Registration link Fees Free</description>
     </item>
     
     <item>
