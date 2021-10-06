@@ -225,7 +225,7 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/speakers'.
     # For more informtion take a look at the README.
-    title = "Speakers (The following times are all Japan time)"
+    title = "Speakers (The following times are Japan time [UTC+0900])"
     # subtitle = "Confirmed speakers"
 
 [params.see_more]
