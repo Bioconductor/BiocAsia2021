@@ -59,7 +59,7 @@ These claims are demonstrated through the use of real data examples and statisti
 
 - https://doi.org/10.1371/journal.pone.0191629
 
-### (15:30~) Kozo Nishida: "BoF: Improving accessibility to Bioconductor in Japan"
+### (15:30~) Kozo Nishida: "[BoF] Improving accessibility to Bioconductor in Japan"
 
 Accessibility to Bioconductor's information resources varies greatly between English and other languages. Bioconductor users in Japan are not small, but the number of developers is significantly smaller than in Europe and the United States.
 This BOF introduces attempts to improve accessibility to Bioconductor in Japan, along with the activities of BioPackathon, the Software Carpentry Japanese Team, and the Bioconductor Community Advisory Board.
