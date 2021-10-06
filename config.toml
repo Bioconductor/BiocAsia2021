@@ -27,7 +27,7 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    identifier = "contributions"
+    identifier = "contributed_talks"
     name = "Contributed talks"
     url  = "/contributions/"
     weight = 2
