@@ -1,4 +1,4 @@
 text: "Dr. Koki Tsuyuzaki is a post-doc researcher at RIKEN BDR BiT and a researcher at JST PRESTO. He is one of the active Bioconductor committers and has developed hundreds of R/Bioconductor packages including metaSeq, AHMeSHDbs, MeSHDbi, AHLRBaseDbs, LRBaseDbi, AHPubMedDbs, scTensor, and scTGIF. He will present his recent development of some R packages for tensor decomposition to handle large-scale and complex tensor data structures."
-name: "Invited talk, Koki Tsuyuzaki (day3 14:30~): \"Guidelines to handle large-scale and complex tensor data in R\""
+name: "Invited talk (day3 14:30~), Koki Tsuyuzaki: \"Guidelines to handle large-scale and complex tensor data in R\""
 position: "RIKEN Center for Biosystems Dynamics Research, Japan"
 avatar: "img/speakers/KokiTsuyuzaki.jpg"
