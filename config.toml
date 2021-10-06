@@ -27,17 +27,17 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    identifier = "registration"
-    name = "Registration"
-    url  = "/registration/"
+    identifier = "contributions"
+    name = "Contributed talks"
+    url  = "/contributions/"
     weight = 2
-
+    
 [[menu.main]]
-    identifier="submissions"
-    name = "Submissions"
-    url  = "/submissions/"
+    identifier="workshops"
+    name = "Workshops"
+    url  = "/workshops/"
     weight = 3
-
+    
 [[menu.main]]
     identifier="schedule"
     name = "Schedule"
@@ -45,15 +45,15 @@ paginate = 10
     weight = 4
 
 [[menu.main]]
-    identifier="workshops"
-    name = "Workshops"
-    url  = "/workshops/"
+    identifier = "registration"
+    name = "Registration"
+    url  = "/registration/"
     weight = 5
 
 [[menu.main]]
-    identifier = "organizers"
-    name = "Organizers"
-    url  = "/organizers/"
+    identifier="submissions"
+    name = "Submissions"
+    url  = "/submissions/"
     weight = 6
 
 [[menu.main]]
@@ -73,7 +73,7 @@ paginate = 10
     name = "行動規範"
     url  = "/code-Japanese/"
     weight = 9
-
+    
 [[menu.main]]
     identifier = "jobs"
     name = "求人"
@@ -85,6 +85,12 @@ paginate = 10
     name = "Past conferences"
     url  = "/conferences/"
     weight = 11
+
+[[menu.main]]
+    identifier = "organizers"
+    name = "Organizers"
+    url  = "/organizers/"
+    weight = 12
 
 # [[menu.main]]
 #     identifier = "contact"
