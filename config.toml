@@ -27,27 +27,27 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    identifier = "contributions"
-    name = "Contributed talks"
-    url  = "/contributions/"
-    weight = 2
-    
-[[menu.main]]
-    identifier="workshops"
-    name = "Workshops"
-    url  = "/workshops/"
-    weight = 3
-    
-[[menu.main]]
     identifier="schedule"
     name = "Schedule"
     url  = "/schedule/"
-    weight = 4
+    weight = 2
 
 [[menu.main]]
     identifier = "registration"
     name = "Registration"
     url  = "/registration/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "contributions"
+    name = "Contributed talks"
+    url  = "/contributions/"
+    weight = 4
+    
+[[menu.main]]
+    identifier="workshops"
+    name = "Workshops"
+    url  = "/workshops/"
     weight = 5
 
 #[[menu.main]]
