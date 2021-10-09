@@ -3,6 +3,8 @@ title = "Workshops"
 description = "Workshops"
 +++
 
+**The workshop will be held from 4pm to 5pm Japan time (UTC+09:00) from November 1st to 4th.**
+
 ## Japanese Workshops
 
 ### (Day1) 山本 博之 Hiroyuki Yamamoto: "Rを用いたメタボロームデータ解析: Metabolome data analysis using R"
