@@ -3,9 +3,9 @@ title = "Contributed talks"
 description = "Contributed talks"
 +++
 
-**THE FOLLOWING TIMES ARE ALL JAPAN TIME**
+**THE FOLLOWING TIMES ARE ALL JAPAN TIME (UTC+09:00)**
 
-## day1
+## Day1
 
 ### (15:00~) Omar El-Ashkar: "rGenomeTracks: Extending epigenetic visualization methods in R"
 
@@ -19,7 +19,7 @@ Single cell profiling technology such as single-cell RNA-seq (scRNA-seq) enables
 
 - https://github.com/huangyh09/DCATS/
 
-## day2
+## Day2
 
 ### (15:00~) Mahmoud Shaaban: "LINPS: a database for cancer-cell-specific perturbations of biological networks"
 
@@ -47,7 +47,7 @@ Together, PhosR facilitates interpretation and discovery from large-scale phosph
 - https://github.com/PYangLab/PhosR
 - https://pyanglab.github.io/PhosR/
 
-## day3
+## Day3
 
 ### (15:00~) Luke C. Gandolfo: "Untangling batch and biological effects with RLE plots"
 
@@ -69,7 +69,7 @@ Bioconductor is creating Carpentries-style teaching materials, and it is importa
 The Bioconductor Community Advisory Board has a board member in Japan, and is planning to improve accessibility from Japan to Bioconductor in line with the CZI EOSS project.
 In this BOF, the above will be explained in slides and the future prospects will be introduced.
 
-## day4
+## Day4
  
 ### (15:30~) Zuguang Gu: "spiralize: an R Package for Visualizing Data on Spirals"
  
