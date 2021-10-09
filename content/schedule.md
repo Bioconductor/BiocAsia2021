@@ -5,9 +5,11 @@ description = "Schedule"
 
 # Schedule
 
-- [All invited talk abstracts](https://biocasia2021.bioconductor.org/)
-- [All contributed talk abstracts](https://biocasia2021.bioconductor.org/contributions/)
-- The assignment of workshop speakers to each frame is currently being prepared.
+### [All invited talk abstracts](https://biocasia2021.bioconductor.org/)
+
+### [All contributed talk abstracts](https://biocasia2021.bioconductor.org/contributions/)
+
+### [All workshop abstracts](https://biocasia2021.bioconductor.org/workshops/)
 
 Click or change the place name in the left of "Powered by team up" (in the lower-right corner) to set your time zone.
 
