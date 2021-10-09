@@ -7,16 +7,37 @@ description = "Workshops"
 
 ### Japanese Workshops
 
-#### (Day1) 久米 慧嗣 Satoshi Kume: "Rにおけるバイオ画像解析入門 : Introduction to Bioimaging Analysis in R"
+#### (Day1) 山本 博之 Hiroyuki Yamamoto: "Rを用いたメタボロームデータ解析: Metabolome data analysis using R"
+
+BioconductorパッケージXCMSを用いた、メタボロミクスにおける質量分析データ処理の手順を簡単に紹介する。次に、Rパッケージloadingsを用いた多変量解析の手順を紹介する。loadingsパッケージは、メタボロームデータを可視化するだけでなく、主成分負荷量やPartial last squares 負荷量とそれらの統計的仮説検定を用いて、有意な代謝物を選択することが出来る。
+
+I will briefly introduce the procedure for mass spectrometry data processing in metabolomics using the R Bioconductor package “XCMS”. And, I will also introduce the procedure for multivariate analysis using R package “loadings”. The “loadings” package can not only visualize metabolome data, but also select significant metabolites using Principal component loadings, Partial least squares loadings and their statistical hypothesis testing.
+
+#### (Day2) 久米 慧嗣 Satoshi Kume: "Rにおけるバイオ画像解析入門: Introduction to Bioimaging Analysis in R"
 
 このワークショップでは、BioconductorパッケージであるEBImageを使って、Rでの画像処理・画像解析の基本的な方法を扱う。次に、BioImageDbsパッケージを用いて、ExperimentHubからの画像データの取得を行う。さらに、rMiWパッケージが提供する、Deep learningモデルの１つであるU-NETモデルを用いて、教師有り画像セグメンテーション（領域分割）を学び。このワークショップは、Orchestra環境にて実施する。
 
 This workshop covers basic methods of the image processing and image analysis in R using the Bioconductor package "EBImage" and the Orchestra platform. In addition, the image dataset is obtained from ExperimentHub using the "BioImageDbs" package. Using this dataset, we perform a supervised image segmentation using the U-NET model, one of deep learning models, provided by the rMiW package.
 
-#### (Day2)
+#### (Day3) 西田 孝三 Kozo Nishida: "RCy3 を用いた Cytoscape の自動化: Cytoscape automation with RCy3"
 
+RCy3は、RからCytoscapeを操作するBioconductorパッケージです。このワークショップでは、[RCy3というBioconductorパッケージ](https://bioconductor.org/packages/release/bioc/html/RCy3.html)と[オーケストラプラットフォーム](http://app.orchestra.cancerdatasci.org/1) を使用して、プログラマチックなワークフローやパイプラインへのCytoscapeの統合について学習します。
 
-#### (Day3)
+ネットワーク分析におけるCytoscapeの機能の簡単なレビューに続いて、これらを実用的なスクリプト可能なユースケースに変換する方法を学習します。ワークショップの大部分は、RからCytoscapeにアクセスして制御し、[腫瘍の発現量](https://cytoscape.org/cytoscape-tutorials/presentations/modules/RCy3_ExampleData/data/TCGA_OV_RNAseq_expression.txt)のネットワーク分析を実行する方法の実践的なデモンストレーションです。Cytoscapeの操作は手作業ではなく、すべてRで行われるため、そのワークフローは作業効率が良く、再現性も高いものとなっています。
+
+このワークショップを修了すると、次のことができるようになります。
+1. Cytoscapeに対するコマンドプログラムによる制御
+2. Cytoscapeのバイオインフォマティクスのパイプラインへの統合
+3. さまざまなツールとリソースを1つの R Markdownにまとめること
+
+[RCy3](https://bioconductor.org/packages/release/bioc/html/RCy3.html) is a Bioconductor package that operates [Cytoscape](https://cytoscape.org/) from R. In this workshop, you will learn about the integration of Cytoscape into programmatic workflows and pipelines using RCy3 Bioconductor package and [the Orchestra platform](http://app.orchestra.cancerdatasci.org/1).
+
+Following a brief review of the capabilities of Cytoscape in network analysis, you’ll learn how to translate these into scriptable use cases for practical applications. The bulk of the workshop will be a demonstration of how to access and control Cytoscape from RCy3 to perform a network analysis of [tumor expression](https://cytoscape.org/cytoscape-tutorials/presentations/modules/RCy3_ExampleData/data/TCGA_OV_RNAseq_expression.txt). Since all Cytoscape operations are done in R, not manually, it is efficient and reproducible.
+
+By the end of this workshop you will be able to:
+1. Command programmatic control over Cytoscape
+2. Integrate Cytoscape into your bioinformatics pipelines
+3. Pull together various tools and resources into a single R Markdown
 
 
 #### (Day4)
