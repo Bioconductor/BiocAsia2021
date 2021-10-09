@@ -50,47 +50,47 @@ paginate = 10
     url  = "/registration/"
     weight = 5
 
-[[menu.main]]
-    identifier="submissions"
-    name = "Submissions"
-    url  = "/submissions/"
-    weight = 6
+#[[menu.main]]
+#    identifier="submissions"
+#    name = "Submissions"
+#    url  = "/submissions/"
+#    weight = 6
 
 [[menu.main]]
     identifier = "code"
     name = "Code of conduct"
     url  = "/code/"
-    weight = 7
+    weight = 6
 
 [[menu.main]]
     identifier = "code-Mandarin"
     name = "行为准则"
     url  = "/code-Mandarin/"
-    weight = 8
+    weight = 7
 
 [[menu.main]]
     identifier = "code-Japanese"
     name = "行動規範"
     url  = "/code-Japanese/"
-    weight = 9
+    weight = 8
     
 [[menu.main]]
     identifier = "jobs"
     name = "求人"
     url  = "/jobs/"
-    weight = 10
+    weight = 9
 
 [[menu.main]]
     identifier = "conferences"
     name = "Past conferences"
     url  = "/conferences/"
-    weight = 11
+    weight = 10
 
 [[menu.main]]
     identifier = "organizers"
     name = "Organizers"
     url  = "/organizers/"
-    weight = 12
+    weight = 11
 
 # [[menu.main]]
 #     identifier = "contact"
