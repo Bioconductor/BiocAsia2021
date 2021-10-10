@@ -13,19 +13,7 @@ BioconductorパッケージXCMSを用いた、メタボロミクスにおける�
 
 I will briefly introduce the procedure for mass spectrometry data processing in metabolomics using the R Bioconductor package “XCMS”. And, I will also introduce the procedure for multivariate analysis using R package “loadings”. The “loadings” package can not only visualize metabolome data, but also select significant metabolites using Principal component loadings, Partial least squares loadings and their statistical hypothesis testing.
 
-### (Day2) 久米 慧嗣 Satoshi Kume: "Rにおけるバイオ画像解析入門: Introduction to Bioimaging Analysis in R"
-
-このワークショップでは、BioconductorパッケージであるEBImageを使って、Rでの画像処理・画像解析の基本的な方法を扱う。次に、BioImageDbsパッケージを用いて、ExperimentHubからの画像データの取得を行う。さらに、rMiWパッケージが提供する、Deep learningモデルの１つであるU-NETモデルを用いて、教師有り画像セグメンテーション（領域分割）を学び。このワークショップは、Orchestra環境にて実施する。
-
-This workshop covers basic methods of the image processing and image analysis in R using the Bioconductor package "EBImage" and the Orchestra platform. In addition, the image dataset is obtained from ExperimentHub using the "BioImageDbs" package. Using this dataset, we perform a supervised image segmentation using the U-NET model, one of deep learning models, provided by the rMiW package.
-
-### (Day3) 露崎 弘毅 Koki Tsuyuzaki: "細胞間相互作用解析ワークショップ: Cell-cell Interaction Analysis Workshop"
-
-このワークショップでは、1細胞RNA-Seqデータに含まれるリガンド-受容体の共発現を根拠とした、細胞間相互作用（CCI）の解析を紹介する。また、CCIを網羅的に検出・可視化するためのR/BioconductorパッケージscTensorの使い方を説明する。
-
-In this workshop, I will introduce the analysis of cell-cell interaction (CCI) on the basis of ligand-receptor co-expression in single-cell RNA-Seq data. I will also explain how to use the R/Bioconductor package scTensor for comprehensive detection and visualization of CCIs.
-
-### (Day4) 西田 孝三 Kozo Nishida: "RCy3 を用いた Cytoscape の自動化: Cytoscape automation with RCy3"
+### (Day２) 西田 孝三 Kozo Nishida: "RCy3 を用いた Cytoscape の自動化: Cytoscape automation with RCy3"
 
 RCy3は、RからCytoscapeを操作するBioconductorパッケージです。このワークショップでは、[RCy3というBioconductorパッケージ](https://bioconductor.org/packages/release/bioc/html/RCy3.html)と[オーケストラプラットフォーム](http://app.orchestra.cancerdatasci.org/1) を使用して、プログラマチックなワークフローやパイプラインへのCytoscapeの統合について学習します。
 
@@ -36,14 +24,19 @@ RCy3は、RからCytoscapeを操作するBioconductorパッケージです。こ
 2. Cytoscapeのバイオインフォマティクスのパイプラインへの統合
 3. さまざまなツールとリソースを1つの R Markdownにまとめること
 
-[RCy3](https://bioconductor.org/packages/release/bioc/html/RCy3.html) is a Bioconductor package that operates [Cytoscape](https://cytoscape.org/) from R. In this workshop, you will learn about the integration of Cytoscape into programmatic workflows and pipelines using RCy3 Bioconductor package and [the Orchestra platform](http://app.orchestra.cancerdatasci.org/1).
+The English abstract is on the first day of the English workshops.
 
-Following a brief review of the capabilities of Cytoscape in network analysis, you’ll learn how to translate these into scriptable use cases for practical applications. The bulk of the workshop will be a demonstration of how to access and control Cytoscape from RCy3 to perform a network analysis of [tumor expression](https://cytoscape.org/cytoscape-tutorials/presentations/modules/RCy3_ExampleData/data/TCGA_OV_RNAseq_expression.txt). Since all Cytoscape operations are done in R, not manually, it is efficient and reproducible.
+### (Day3) 露崎 弘毅 Koki Tsuyuzaki: "細胞間相互作用解析ワークショップ: Cell-cell Interaction Analysis Workshop"
 
-By the end of this workshop you will be able to:
-1. Command programmatic control over Cytoscape
-2. Integrate Cytoscape into your bioinformatics pipelines
-3. Pull together various tools and resources into a single R Markdown
+このワークショップでは、1細胞RNA-Seqデータに含まれるリガンド-受容体の共発現を根拠とした、細胞間相互作用（CCI）の解析を紹介する。また、CCIを網羅的に検出・可視化するためのR/BioconductorパッケージscTensorの使い方を説明する。
+
+In this workshop, I will introduce the analysis of cell-cell interaction (CCI) on the basis of ligand-receptor co-expression in single-cell RNA-Seq data. I will also explain how to use the R/Bioconductor package scTensor for comprehensive detection and visualization of CCIs.
+
+### (Day4) 久米 慧嗣 Satoshi Kume: "Rにおけるバイオ画像解析入門: Introduction to Bioimaging Analysis in R"
+
+このワークショップでは、BioconductorパッケージであるEBImageを使って、Rでの画像処理・画像解析の基本的な方法を扱う。次に、BioImageDbsパッケージを用いて、ExperimentHubからの画像データの取得を行う。さらに、rMiWパッケージが提供する、Deep learningモデルの１つであるU-NETモデルを用いて、教師有り画像セグメンテーション（領域分割）を学び。このワークショップは、Orchestra環境にて実施する。
+
+This workshop covers basic methods of the image processing and image analysis in R using the Bioconductor package "EBImage" and the Orchestra platform. In addition, the image dataset is obtained from ExperimentHub using the "BioImageDbs" package. Using this dataset, we perform a supervised image segmentation using the U-NET model, one of deep learning models, provided by the rMiW package.
 
 ---
 
