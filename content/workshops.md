@@ -49,7 +49,16 @@ By the end of this workshop you will be able to:
 
 ## Mandarin Workshops
 
-### (Day1) Jinjin Chen: "Gene-set Analysis Workshop"
+### (Day1) 陈金金 Jinjin Chen: "Gene-set Analysis Workshop"
+
+差异表达分析是生物研究中的一项标准且常用的分析手段。通过比较不同条件或者不同处理下的样本，我们可以得到一系列差异表达基因。生物学家们往往对这些基因背后蕴含的生物学意义很感兴趣，因为这些信息可能有助于揭示生物学系统中潜在的功能和网络。很多基因在相关的知识库中得到了良好的注释，比如GO和KEGG。通过将得到的特殊基因集比对到这些已有的数据库来获取相关注释信息，我们可以理解功能分析的更广泛的影响。
+
+本次workshop将着重于演示基于转录组数据的基因集富集分析和对富集分析结果进行可视化。流程的最开始，我们将使用emtdata和msigdb从ExperimentHub中载入数据。本次流程还将演示如何使用分子标志数据库（通过msigdb R包）和基因集富集分析方法（singscore）来对转录组数据进行功能分析。最后，我们将使用一种基于图的方法来可视化、总结并解释基因集富集分析的结果，演示如何使用vissE包在数据中识别更高阶的生物主题。
+
+本次流程将分为两大部分：
+
+1. 单样本的分子表型分型
+2. 高阶表型的识别和可视化
 
 Differential expression analysis is a standard and popular statistical framework in biological research. Differentially expressed genes can be identified by comparing different conditions or treatments. Biologists are often interested in the biological implications of these differentially expressed genes, since they could reveal the latent functions and networks in biological system. Many gene functions have been well-annotated in some knowledgebases, such as GO and KEGG. By mapping and identifying the annotated functions of special gene-sets, we can understand broader impacts of functional analysis.
 
