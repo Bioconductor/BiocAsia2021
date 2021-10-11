@@ -74,15 +74,22 @@ Convolutional neural network (CNN) is one of the deep neural network architectur
 
 Deep learning has proven to be one of the state-of-the-art tools in object recognition and natural language processing, and has been applied to many fields. Deep learning refers to the use of multiple layers of neural networks which is one of the traditional machine learning algorithms. Deep neural networks can solve problems that are difficult to solve with conventional machine learning algorithms. At present, various architectures of deep neural networks have been published, especially convolutional neural networks (CNN) and recurrent neural networks (RNN) are well known. The former is known to be excellent in computer visions such as object recognition and object detection, while the latter, RNN, is known to be excellent in time-series data analysis and natural language processing. Considering many Bioconductor users are familiar with genome sequence analysis, in this workshop, we will focus on RNN, and introduce the fundamental algorithm of RNN and procedures to build RNN models using R.
 
-### (Day4) Lang Chau: "Visualization and exploration of MSAs and associated data with ggmsa"
+### (Day4) 周烺 Lang Chau: "Visualization and exploration of MSAs and associated data with ggmsa"
+
+在多序列比对(Multiple Sequence Alignment, MSA)的可视化中，普遍采用堆叠可视化的形式，其以行表示每条序列，以列表示相同位置的不同残基字符。我们开发的R包ggmsa在可视化层面扩展了这种堆叠形式的可视化方法，使得MSA图形可以与各类数据进行整合。例如：允许将序列二级结构信息、基因座位点信息或表型数据等序列相关的数据集与MSA结合，以此来探索序列-结构-功能三者之间的关系。并且，我们还开发和整合多种特别的比对序列可视化方法，包核苷酸差异图、核苷酸相似性图 (鉴定序列重组信号)、序列集束(Sequence Bundles)和序列标识(Sequence Logos)，这允许用户从不同角度探索序列的特征。ggmsa可以在git:上找到 https://github.com/YuLab-SMU/ggmsa
+
+Workshop将分为三个部分:
+1. 使用图形语法对MSA进行可视化和注释。
+2. 整合MSA图形和其他数据。
+3. 通过其他序列可视化方法探索序列特征。
 
 The stacked alignment graphic that represents all individual sequences as rows and homologous residue positions as columns is used almost universally in the visualization of multiple sequence alignment (MSA). We present the R package ggmsa to extend MSA visualization method via integrating stacked MSAs and associated data. Sequence-related data sets such as secondary structures, genes locus, or phenotype are allowed to combining with MSA for exploring the sequence-structure-function relationship. And we developed and integrated multiple alignment visualization methods such as nucleotide difference plots, nucleotide similarity plots, and sequence bundles to exploring multifaceted sequence features from multiple perspectives. The ggmsa package is available at https://github.com/YuLab-SMU/ggmsa.
 
 The workshop will be organized into three broad sections:
 
-Visualization of MSAs and annotations via Grammar of Graphics
-Integration of stacked MSAs plot and associated data.
-Exploration of sequence features via different sequence visualization methods
+1. Visualization of MSAs and annotations via Grammar of Graphics
+2. Integration of stacked MSAs plot and associated data.
+3. Exploration of sequence features via different sequence visualization methods
 
 ---
 
