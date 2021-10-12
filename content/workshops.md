@@ -112,7 +112,7 @@ This workshop will provide a beginner’s guide to matrix factorization, princip
 
 Principal component analysis (PCA) is a key step in many bioinformatics pipelines. In this interactive session we will take a deep dive into the various implementations of singular value decomposition (SVD) and principal component analysis (PCA) to clarify the relationship between these methods, and to demonstrate the equivalencies and contrasts between these methods. We will describe correspondence analysis (COA) and demonstrate how it differs from PCA. We will also discuss interpretation of outputs, as well as some common pitfalls and sources of confusion in utilizing these methods.
 
-### (Day3) Federico Marini: "GeneTonic: enjoying the interpretation of your RNA-seq data analysis"
+### (Day3) Federico Marini and Annekathrin Ludt: "GeneTonic: enjoying the interpretation of your RNA-seq data analysis"
 
 RNA-seq transcriptome analysis workflows often generate the essential information (data and results) among a variety of different tabular files and formats, e.g. raw and normalized expression values, results of differential gene expression analysis, or functional enrichment analysis. If this information is fragmented over single different files, the interpretation of the results can be hampered.
 
