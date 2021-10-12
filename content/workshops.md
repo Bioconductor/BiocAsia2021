@@ -120,7 +120,7 @@ We present the GeneTonic package (https://bioconductor.org/packages/GeneTonic/),
 
 In this workshop, we will provide an overview of the functionality of GeneTonic, and demonstrate its usage in classical RNA-seq workflows, showcasing how it is possible to integrate our package with the single components of typical differential expression scenarios, with the goal of streamlining the interpretation and in-depth exploration for this widely used application.
 
-### (Day4) Laurent Gatto: "Single-cell proteomics data analysis using QFeatures and scp"
+### (Day4) Laurent Gatto and Christophe Vanderaa: "Single-cell proteomics data analysis using QFeatures and scp"
 
 Mass spectrometry (MS)-based single-cell proteomics (SCP) is an emerging field that requires a dedicated computational environment. QFeatures along with its extension scp allow for standardized analysis of SCP data. The workshop will start by introducing the QFeatures class and its functions to perform generic proteomics data analysis. We will then
 move to SCP and present how scp extends QFeatures to single-cell applications. The remainder of the workshop will be a hands-on session where attendees will be guided through the reproduction of a real-life analysis of published SCP data. Along the reproduction exercise, we will point out to current challenges that still need to be tackled computationally. This workshop is meant for inexperienced users that want to learn how to perform current state-of-the-art analysis of SCP data as well as experienced developers interested in contributing to an emerging and exciting single-cell technology.
