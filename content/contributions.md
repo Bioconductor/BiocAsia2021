@@ -21,7 +21,7 @@ Single cell profiling technology such as single-cell RNA-seq (scRNA-seq) enables
 
 ## Day2
 
-### (15:00~) Mahmoud Shaaban: "LINPS: a database for cancer-cell-specific perturbations of biological networks"
+### (15:00~) Mahmoud Ahmed: "LINPS: a database for cancer-cell-specific perturbations of biological networks"
 
 Screening for potential cancer therapies using existing large datasets of drug perturbations requires expertise and resources not available to all.
 This is often a barrier for lab scientists to tap into these valuable resources.
