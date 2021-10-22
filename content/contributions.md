@@ -71,7 +71,7 @@ In this BOF, the above will be explained in slides and the future prospects will
 
 ## Day4
 
-### (15:00~) Yohei Kumagai (熊谷洋平): "[Supporter talk (後援トーク)] Introduction of academic recruiting platform tayo (求人プラットフォーム tayo の紹介)"
+### (15:00~) Yohei Kumagai (熊谷洋平): "[Supporter talk (後援トーク)] Introduction of academic recruiting platform tayo (アカデミック求人プラットフォーム tayo の紹介)"
 **This talk will be conducted in Japanese.**
 **本トークは日本語で行われます。**
 
