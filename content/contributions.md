@@ -70,6 +70,16 @@ The Bioconductor Community Advisory Board has a board member in Japan, and is pl
 In this BOF, the above will be explained in slides and the future prospects will be introduced.
 
 ## Day4
+
+### (15:00~) Yohei Kumagai (熊谷洋平): "[Supporter talk (後援トーク)] Introduction of academic recruiting platform tayo (アカデミック求人プラットフォーム tayo の紹介)"
+**This talk will be conducted in Japanese.**
+**本トークは日本語で行われます。**
+
+Compared to employment in the private sector, there is a lack of information about entering graduate school, and this has become a bottleneck in the flow of human resources in academia.
+This presentation will introduce [tayo](https://tayo.jp/)’s efforts to revitalize the flow of human resources in academia and create a world where a diverse people can aim to become scientists.
+
+民間に比べて大学院への進学に関する情報が不足しており、これが学界の人材の流れのボトルネックになっています。
+このプレゼンテーションでは、学界における人材の流れを活性化し、多様な人々が科学者になることを目指すことができる世界を創造するための [tayo](https://tayo.jp/) の取り組みを紹介します。
  
 ### (15:30~) Zuguang Gu: "spiralize: an R Package for Visualizing Data on Spirals"
  
