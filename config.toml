@@ -127,7 +127,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 5
     name = "Slack"
-    url = "https://bioc-community.herokuapp.com/"
+    url = "http://biocasia2021.slack.com/"
     pre = "<i class='fab fa-2x fa-slack'></i>"
 
 [params]
