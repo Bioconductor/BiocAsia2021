@@ -120,9 +120,8 @@ Important dates  September 7, 2021: Registration opens September 8, 2021: Call f
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/workshops/</guid>
-      <description>The workshop will be held from 4pm to 5pm Japan time (UTC+09:00) from November 1st to 4th.
-Japanese Workshops (Day1) 山本 博之 Hiroyuki Yamamoto: &amp;ldquo;Rを用いたメタボロームデータ解析: Metabolome data analysis using R&amp;rdquo; BioconductorパッケージXCMSを用いた、メタボロミクスにおける質量分析データ処理の手順を簡単に紹介する。次に、Rパッケージloadingsを用いた多変量解析の手順を紹介する。loadingsパッケージは、メタボロームデータを可視化するだけでなく、主成分負荷量やPartial last squares 負荷量とそれらの統計的仮説検定を用いて、有意な代謝物を選択することが出来る。
-I will briefly introduce the procedure for mass spectrometry data processing in metabolomics using the R Bioconductor package “XCMS”. And, I will also introduce the procedure for multivariate analysis using R package “loadings”. The “loadings” package can not only visualize metabolome data, but also select significant metabolites using Principal component loadings, Partial least squares loadings and their statistical hypothesis testing.</description>
+      <description>Japanese Workshop Source  Docker  Status     Rを用いたメタボロームデータ解析       Dimension Reduction for Beginners       Multi-omic Integration of cBioPortal and TCGA data with MultiAssayExperiment        Japanese Workshops (Day1) 山本 博之 Hiroyuki Yamamoto: &amp;ldquo;Rを用いたメタボロームデータ解析: Metabolome data analysis using R&amp;rdquo; BioconductorパッケージXCMSを用いた、メタボロミクスにおける質量分析データ処理の手順を簡単に紹介する。次に、Rパッケージloadingsを用いた多変量解析の手順を紹介する。loadingsパッケージは、メタボロームデータを可視化するだけでなく、主成分負荷量やPartial last squares 負荷量とそれらの統計的仮説検定を用いて、有意な代謝物を選択することが出来る。
+I will briefly introduce the procedure for mass spectrometry data processing in metabolomics using the R Bioconductor package “XCMS”.</description>
     </item>
     
     <item>
